@@ -1,0 +1,59 @@
+State,District,Market,Commodity Group,Commodity,Arrival Quantity,Arrival Unit,Arrival Date
+Karnataka,Bellary,Hospet APMC,Cereals,Rice,3.4,Metric Tonnes,01-03-2026
+Karnataka,Davangere,Honnali APMC,Cereals,Rice,150,Metric Tonnes,01-03-2026
+Maharashtra,Raigad,Alibagh APMC,Cereals,Rice,1,Metric Tonnes,01-03-2026
+Maharashtra,Raigad,Murud APMC,Cereals,Rice,1,Metric Tonnes,01-03-2026
+Maharashtra,Thane,Kalyan APMC,Cereals,Rice,0.3,Metric Tonnes,01-03-2026
+Maharashtra,Thane,Palghar APMC,Cereals,Rice,12,Metric Tonnes,01-03-2026
+Maharashtra,Thane,Ulhasnagar APMC,Cereals,Rice,56,Metric Tonnes,01-03-2026
+Odisha,Mayurbhanja,Karanjia APMC,Cereals,Rice,2,Metric Tonnes,01-03-2026
+Odisha,Mayurbhanja,Udala APMC,Cereals,Rice,3,Metric Tonnes,01-03-2026
+Tripura,Dhalai,Masli,Cereals,Rice,0.3,Metric Tonnes,01-03-2026
+Tripura,Gomati,Nutanbazar APMC,Cereals,Rice,1,Metric Tonnes,01-03-2026
+Tripura,Khowai,Kalyanpur APMC,Cereals,Rice,6,Metric Tonnes,01-03-2026
+Tripura,North Tripura,Dasda APMC,Cereals,Rice,0.3,Metric Tonnes,01-03-2026
+Tripura,North Tripura,Kanchanpur,Cereals,Rice,1.5,Metric Tonnes,01-03-2026
+Tripura,Sepahijala,Bishalgarh APMC,Cereals,Rice,0.8,Metric Tonnes,01-03-2026
+Tripura,Sepahijala,Jampuijala APMC,Cereals,Rice,0.4,Metric Tonnes,01-03-2026
+Uttar Pradesh,Balrampur,Panchpedwa APMC,Cereals,Rice,2.5,Metric Tonnes,01-03-2026
+Uttar Pradesh,Balrampur,Tulsipur APMC,Cereals,Rice,4,Metric Tonnes,01-03-2026
+Uttar Pradesh,Kanpur,Varipaal APMC,Cereals,Rice,14.6,Metric Tonnes,01-03-2026
+Uttar Pradesh,Kanpur Dehat,Pukharayan APMC,Cereals,Rice,47.5,Metric Tonnes,01-03-2026
+Uttar Pradesh,Lucknow,Banthara APMC,Cereals,Rice,154,Metric Tonnes,01-03-2026
+Uttarakhand,Udhamsinghnagar,Gadarpur APMC,Cereals,Rice,153.7,Metric Tonnes,01-03-2026
+West Bengal,Bankura,Bankura Sadar APMC,Cereals,Rice,27,Metric Tonnes,01-03-2026
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Cereals,Rice,0.42,Metric Tonnes,01-03-2026
+West Bengal,Bankura,Indus(Bankura Sadar) APMC,Cereals,Rice,4.5,Metric Tonnes,01-03-2026
+West Bengal,Birbhum,Birbhum APMC,Cereals,Rice,33,Metric Tonnes,01-03-2026
+West Bengal,Birbhum,Bolpur APMC,Cereals,Rice,31,Metric Tonnes,01-03-2026
+West Bengal,Birbhum,Sainthia APMC,Cereals,Rice,35,Metric Tonnes,01-03-2026
+West Bengal,Darjeeling,Siliguri APMC,Cereals,Rice,160,Metric Tonnes,01-03-2026
+West Bengal,Hooghly,Champadanga APMC,Cereals,Rice,5.3,Metric Tonnes,01-03-2026
+West Bengal,Hooghly,Kalipur APMC,Cereals,Rice,19.2,Metric Tonnes,01-03-2026
+West Bengal,Hooghly,Pandua APMC,Cereals,Rice,1.8,Metric Tonnes,01-03-2026
+West Bengal,Hooghly,Sheoraphuly APMC,Cereals,Rice,3.9,Metric Tonnes,01-03-2026
+West Bengal,Howrah,Ramkrishanpur(Howrah) APMC,Cereals,Rice,0.45,Metric Tonnes,01-03-2026
+West Bengal,Howrah,Uluberia APMC,Cereals,Rice,0.35,Metric Tonnes,01-03-2026
+West Bengal,Malda,Gajol APMC,Cereals,Rice,18,Metric Tonnes,01-03-2026
+West Bengal,Malda,Samsi APMC,Cereals,Rice,10,Metric Tonnes,01-03-2026
+West Bengal,Medinipur(E),Kolaghat APMC,Cereals,Rice,10,Metric Tonnes,01-03-2026
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Cereals,Rice,16,Metric Tonnes,01-03-2026
+West Bengal,Medinipur(W),Ghatal APMC,Cereals,Rice,12.5,Metric Tonnes,01-03-2026
+West Bengal,Murshidabad,Beldanga APMC,Cereals,Rice,3,Metric Tonnes,01-03-2026
+West Bengal,Murshidabad,Jiaganj APMC,Cereals,Rice,14,Metric Tonnes,01-03-2026
+West Bengal,Murshidabad,Kandi APMC,Cereals,Rice,25,Metric Tonnes,01-03-2026
+West Bengal,Murshidabad,Kasimbazar APMC,Cereals,Rice,25,Metric Tonnes,01-03-2026
+West Bengal,Murshidabad,Lalbagh APMC,Cereals,Rice,10,Metric Tonnes,01-03-2026
+West Bengal,Nadia,Bethuadahari APMC,Cereals,Rice,6.6,Metric Tonnes,01-03-2026
+West Bengal,Nadia,Kalyani APMC,Cereals,Rice,12,Metric Tonnes,01-03-2026
+West Bengal,Nadia,Karimpur APMC,Cereals,Rice,5.4,Metric Tonnes,01-03-2026
+West Bengal,Paschim Bardhaman,Asansol APMC,Cereals,Rice,62,Metric Tonnes,01-03-2026
+West Bengal,Paschim Bardhaman,Durgapur APMC,Cereals,Rice,63,Metric Tonnes,01-03-2026
+West Bengal,Purba Bardhaman,Burdwan APMC,Cereals,Rice,40,Metric Tonnes,01-03-2026
+West Bengal,Purba Bardhaman,Guskara APMC,Cereals,Rice,50,Metric Tonnes,01-03-2026
+West Bengal,Purba Bardhaman,Kalna APMC,Cereals,Rice,51,Metric Tonnes,01-03-2026
+West Bengal,Purba Bardhaman,Katwa APMC,Cereals,Rice,22,Metric Tonnes,01-03-2026
+West Bengal,Purba Bardhaman,Memari APMC,Cereals,Rice,29,Metric Tonnes,01-03-2026
+West Bengal,Puruliya,Balarampur APMC,Cereals,Rice,7.5,Metric Tonnes,01-03-2026
+West Bengal,Sounth 24 Parganas,Baruipur(Canning) APMC,Cereals,Rice,17.5,Metric Tonnes,01-03-2026
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Cereals,Rice,17.5,Metric Tonnes,01-03-2026

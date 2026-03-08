@@ -1,0 +1,29 @@
+# FastAPI
+fastapi
+uvicorn[standard]
+python-multipart
+
+# AWS
+boto3
+
+# LangGraph
+langgraph
+langchain-core
+
+# ML Models
+lightgbm
+scikit-learn
+pandas
+numpy
+
+# Geo & Distance
+geopy
+
+# HTTP
+httpx
+requests
+
+# Utils
+python-dotenv
+pydantic
+pydantic-settings

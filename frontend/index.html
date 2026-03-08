@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="NexusAgri - AI-powered Farm Assistant for crop diagnosis and market intelligence">
+    <title>NexusAgri — AI Farm Assistant</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <span class="logo-icon">🌾</span>
+                    <h1>NexusAgri</h1>
+                </div>
+                <p class="tagline">AI Farm Assistant</p>
+            </div>
+
+            <nav class="sidebar-nav">
+                <button class="nav-btn active" data-mode="auto" id="btn-auto">
+                    <span class="nav-icon">🤖</span>
+                    <span>Auto Detect</span>
+                </button>
+                <button class="nav-btn" data-mode="health" id="btn-health">
+                    <span class="nav-icon">🌿</span>
+                    <span>Health Agent</span>
+                </button>
+                <button class="nav-btn" data-mode="market" id="btn-market">
+                    <span class="nav-icon">📊</span>
+                    <span>Market Agent</span>
+                </button>
+            </nav>
+
+            <div class="sidebar-section">
+                <h3>Farm Profile</h3>
+                <div class="farm-profile" id="farm-profile-section">
+                    <div class="profile-field">
+                        <label>Farm ID</label>
+                        <input type="text" id="farm-id" placeholder="e.g. farm123" value="farm123">
+                    </div>
+                    <div class="profile-field">
+                        <label>Location</label>
+                        <input type="text" id="farm-location" placeholder="e.g. Bangalore, Karnataka">
+                    </div>
+                    <div class="profile-field">
+                        <label>Crops</label>
+                        <input type="text" id="farm-crops" placeholder="e.g. onion, tomato">
+                    </div>
+                    <button class="btn-save" id="btn-save-profile" onclick="saveProfile()">
+                        Save Profile
+                    </button>
+                </div>
+            </div>
+
+            <div class="sidebar-footer">
+                <p>Powered by AWS Bedrock</p>
+            </div>
+        </aside>
+
+        <!-- Main Chat Area -->
+        <main class="main-content">
+            <!-- Top Bar -->
+            <header class="top-bar">
+                <button class="menu-toggle" id="menu-toggle" onclick="toggleSidebar()">☰</button>
+                <div class="mode-indicator" id="mode-indicator">
+                    <span class="mode-dot"></span>
+                    <span id="current-mode-text">Auto Detect Mode</span>
+                </div>
+                <div class="status-badge" id="status-badge">Ready</div>
+            </header>
+
+            <!-- Messages Container -->
+            <div class="messages-container" id="messages-container">
+                <div class="welcome-screen" id="welcome-screen">
+                    <div class="welcome-icon">🌾</div>
+                    <h2>Welcome to NexusAgri</h2>
+                    <p>Your AI-powered farming assistant</p>
+                    <div class="quick-actions">
+                        <button class="quick-btn" onclick="sendQuickQuery('My tomato leaves have black spots and the plant looks weak')">
+                            <span>🍅</span> Tomato disease check
+                        </button>
+                        <button class="quick-btn" onclick="sendQuickQuery('Should I sell my onions now?')">
+                            <span>🧅</span> Onion sell advice
+                        </button>
+                        <button class="quick-btn" onclick="sendQuickQuery('My cow has fever and not eating')">
+                            <span>🐄</span> Livestock health
+                        </button>
+                        <button class="quick-btn" onclick="sendQuickQuery('Where should I sell tomatoes today?')">
+                            <span>🏪</span> Best mandi finder
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Input Area -->
+            <div class="input-area">
+                <!-- File Preview -->
+                <div class="file-preview" id="file-preview" style="display:none;">
+                    <div class="preview-content" id="preview-content"></div>
+                    <button class="preview-close" onclick="clearFile()">✕</button>
+                </div>
+
+                <div class="input-wrapper">
+                    <div class="input-actions">
+                        <label class="upload-btn" title="Upload image">
+                            <input type="file" id="image-input" accept="image/*" onchange="handleFileUpload(event, 'image')" hidden>
+                            📷
+                        </label>
+                        <label class="upload-btn" title="Upload video">
+                            <input type="file" id="video-input" accept="video/*" onchange="handleFileUpload(event, 'video')" hidden>
+                            🎥
+                        </label>
+                    </div>
+
+                    <textarea 
+                        id="query-input" 
+                        placeholder="Describe your crop issue or ask about market prices..." 
+                        rows="1"
+                        onkeydown="handleKeyDown(event)"
+                        oninput="autoResize(this)"
+                    ></textarea>
+
+                    <button class="send-btn" id="send-btn" onclick="sendMessage()">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M22 2L11 13"></path>
+                            <path d="M22 2L15 22L11 13L2 9L22 2Z"></path>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>

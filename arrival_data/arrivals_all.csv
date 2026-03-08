@@ -1,0 +1,1360 @@
+state,district,market,commodity,arrivals,date
+Assam,Kamrup,Pamohi(Garchuk) APMC,onion,155.0,2026-01-03
+Bihar,Banka,Barahat APMC,onion,4.0,2026-01-03
+Bihar,Samastipur,Tajpur APMC,onion,2.0,2026-01-03
+Bihar,Sheohar,Sheohar APMC,onion,3.0,2026-01-03
+Goa,North Goa,Mapusa APMC,onion,9.88,2026-01-03
+Gujarat,Bharuch,Bharuch APMC,onion,29.5,2026-01-03
+Gujarat,Dahod,Dahod(Veg. Market) APMC,onion,2.0,2026-01-03
+Gujarat,Kheda,Nadiyad(Piplag) APMC,onion,7.0,2026-01-03
+Gujarat,Navsari,Navsari APMC,onion,29.94,2026-01-03
+Gujarat,Surat,Surat APMC,onion,415.0,2026-01-03
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,onion,21.37,2026-01-03
+Haryana,Bhiwani,Ch. Dadri APMC,onion,6.3,2026-01-03
+Haryana,Faridabad,"New Grain Market , Faridabad APMC",onion,21.5,2026-01-03
+Haryana,Fatehabad,Tohana(New Veg Market) APMC,onion,7.0,2026-01-03
+Haryana,Gurgaon,Gurgaon APMC,onion,121.0,2026-01-03
+Haryana,Gurgaon,Pataudi APMC,onion,2.1,2026-01-03
+Haryana,Gurgaon,Sohna APMC,onion,5.1,2026-01-03
+Haryana,Hissar,Barwala(Hisar) APMC,onion,11.5,2026-01-03
+Haryana,Hissar,Hansi APMC,onion,14.2,2026-01-03
+Haryana,Hissar,Hissar APMC,onion,20.0,2026-01-03
+Haryana,Hissar,Uklana APMC,onion,0.2,2026-01-03
+Haryana,Jhajar,Jhajjar APMC,onion,8.0,2026-01-03
+Haryana,Jind,Narwana APMC,onion,10.0,2026-01-03
+Haryana,Kaithal,Cheeka APMC,onion,0.5,2026-01-03
+Haryana,Kaithal,Kaithal APMC,onion,10.7,2026-01-03
+Haryana,Kaithal,Pundri APMC,onion,0.4,2026-01-03
+Haryana,Kaithal,Siwan APMC,onion,2.0,2026-01-03
+Haryana,Karnal,"New Grain Market(main), Karnal APMC",onion,55.0,2026-01-03
+Haryana,Kurukshetra,Ladwa APMC,onion,1.0,2026-01-03
+Haryana,Mahendragarh-Narnaul,Mohindergarh APMC,onion,3.45,2026-01-03
+Haryana,Mahendragarh-Narnaul,Narnaul APMC,onion,1.8,2026-01-03
+Haryana,Mewat,Nuh APMC,onion,2.5,2026-01-03
+Haryana,Panchkula,Barwala APMC,onion,3.5,2026-01-03
+Haryana,Panipat,Madlauda APMC,onion,0.3,2026-01-03
+Haryana,Panipat,Panipat APMC,onion,65.8,2026-01-03
+Haryana,Panipat,Samalkha APMC,onion,4.5,2026-01-03
+Haryana,Rewari,Kosli APMC,onion,0.2,2026-01-03
+Haryana,Rewari,Rewari APMC,onion,5.9,2026-01-03
+Haryana,Sirsa,Rania APMC,onion,0.2,2026-01-03
+Haryana,Sirsa,Rania(Jiwan nagar) APMC,onion,0.2,2026-01-03
+Haryana,Sirsa,Sirsa APMC,onion,10.6,2026-01-03
+Haryana,Sonipat,Ganaur APMC,onion,2.9,2026-01-03
+Haryana,Sonipat,Gohana APMC,onion,8.7,2026-01-03
+Haryana,Sonipat,Sonepat APMC,onion,15.4,2026-01-03
+Haryana,Sonipat,Sonepat(Kharkhoda) APMC,onion,4.0,2026-01-03
+Haryana,Yamuna Nagar,Chhachrauli APMC,onion,0.25,2026-01-03
+Haryana,Yamuna Nagar,Mustafabad APMC,onion,0.29,2026-01-03
+Haryana,Yamuna Nagar,Sadhaura APMC,onion,2.4,2026-01-03
+Himachal Pradesh,Kullu,PMY Kullu,onion,1.6,2026-01-03
+Himachal Pradesh,Kullu,SMY Bhuntar,onion,1.8,2026-01-03
+Himachal Pradesh,Mandi,SMY Takoli,onion,0.15,2026-01-03
+Karnataka,Kolar,Chickkaballapura APMC,onion,3.0,2026-01-03
+Karnataka,Kolar,Gowribidanoor APMC,onion,0.3,2026-01-03
+Karnataka,Shimoga,Shimoga APMC,onion,7.5,2026-01-03
+Kerala,Alappuzha,Kayamkulam APMC,onion,9.0,2026-01-03
+Kerala,Ernakulam,Piravam APMC,onion,5.0,2026-01-03
+Kerala,Idukki,Kattappana APMC,onion,9.9,2026-01-03
+Kerala,Idukki,Vandiperiyar APMC,onion,0.05,2026-01-03
+Kerala,Kannur,Kannur APMC,onion,22.0,2026-01-03
+Kerala,Kannur,Thalasserry APMC,onion,0.3,2026-01-03
+Kerala,Kollam,Anchal APMC,onion,0.09,2026-01-03
+Kerala,Kollam,Chathanoor APMC,onion,0.4,2026-01-03
+Kerala,Kottayam,Kanjirappally APMC,onion,0.5,2026-01-03
+Kerala,Malappuram,Manjeri APMC,onion,8.0,2026-01-03
+Kerala,Malappuram,Thirurrangadi APMC,onion,2.0,2026-01-03
+Kerala,Palakad,Koduvayoor APMC,onion,160.0,2026-01-03
+Kerala,Palakad,vadakarapathy APMC,onion,1.0,2026-01-03
+Kerala,Thirssur,Chelakkara APMC,onion,0.15,2026-01-03
+Kerala,Thirssur,Wadakkanchery APMC,onion,0.6,2026-01-03
+Kerala,Thiruvananthapuram,Pothencode APMC,onion,650.0,2026-01-03
+Kerala,Thiruvananthapuram,Vamanapuram APMC,onion,0.16,2026-01-03
+Madhya Pradesh,Anupur,Anuppur(F&V) APMC,onion,3.0,2026-01-03
+Madhya Pradesh,Badwani,Badwani(F&V) APMC,onion,1.18,2026-01-03
+Madhya Pradesh,Badwani,Sendhwa(F&V) APMC,onion,0.5,2026-01-03
+Madhya Pradesh,Chhindwara,Chindwara(F&V) APMC,onion,1.6,2026-01-03
+Madhya Pradesh,Dewas,Dewas(F&V) APMC,onion,3.0,2026-01-03
+Madhya Pradesh,Dhar,Badnawar(F&V) APMC,onion,0.1,2026-01-03
+Madhya Pradesh,Hoshangabad,Pipariya(F&V) APMC,onion,4.0,2026-01-03
+Madhya Pradesh,Jhabua,Petlawad(F&V) APMC,onion,0.89,2026-01-03
+Madhya Pradesh,Morena,Sabalgarh(F&V) APMC,onion,0.0,2026-01-03
+Madhya Pradesh,Rajgarh,Sarangpur APMC,onion,25.2,2026-01-03
+Madhya Pradesh,Sagar,Deori APMC,onion,37.4,2026-01-03
+Madhya Pradesh,Sagar,Rehli(F&V) APMC,onion,1.0,2026-01-03
+Madhya Pradesh,Sagar,Sagar(F&V) APMC,onion,21.9,2026-01-03
+Madhya Pradesh,Satna,Maihar(F&V) APMC,onion,1.0,2026-01-03
+Madhya Pradesh,Shivpuri,Karera(F&V) APMC,onion,0.7,2026-01-03
+Maharashtra,Ahmednagar,Akole APMC,onion,348.4,2026-01-03
+Maharashtra,Ahmednagar,Rahata APMC,onion,105.9,2026-01-03
+Maharashtra,Ahmednagar,Rahuri APMC,onion,342.1,2026-01-03
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market) APMC,onion,40.7,2026-01-03
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,onion,614.0,2026-01-03
+Maharashtra,Dharashiv(Usmanabad),Paranda APMC,onion,624.9,2026-01-03
+Maharashtra,Jalgaon,Bhusaval APMC,onion,9.0,2026-01-03
+Maharashtra,Nagpur,Kamthi APMC,onion,4.0,2026-01-03
+Maharashtra,Pune,Junnar(Alephata) APMC,onion,543.1,2026-01-03
+Maharashtra,Pune,Junnar(Narayangaon) APMC,onion,9.2,2026-01-03
+Maharashtra,Pune,Khed(Chakan) APMC,onion,25.0,2026-01-03
+Maharashtra,Pune,Pune(Khadiki) APMC,onion,1.3,2026-01-03
+Maharashtra,Pune,Pune(Manjri) APMC,onion,8.6,2026-01-03
+Maharashtra,Pune,Pune(Moshi) APMC,onion,63.0,2026-01-03
+Maharashtra,Pune,Pune(Pimpri) APMC,onion,1.1,2026-01-03
+Maharashtra,Satara,Karad APMC,onion,19.8,2026-01-03
+Maharashtra,Satara,Satara APMC,onion,50.0,2026-01-03
+Maharashtra,Satara,Vaduj APMC,onion,6.0,2026-01-03
+Maharashtra,Sholapur,Akluj APMC,onion,58.8,2026-01-03
+Maharashtra,Sholapur,Mangal Wedha APMC,onion,0.3,2026-01-03
+Maharashtra,Thane,Kalyan APMC,onion,0.6,2026-01-03
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",onion,648.7,2026-01-03
+Odisha,Balasore,Jaleswar APMC,onion,30.0,2026-01-03
+Odisha,Bargarh,Bargarh APMC,onion,218.0,2026-01-03
+Odisha,Bargarh,Bargarh(Barapalli) APMC,onion,111.0,2026-01-03
+Odisha,Boudh,Boudh APMC,onion,0.2,2026-01-03
+Odisha,Dhenkanal,Hindol APMC,onion,1.8,2026-01-03
+Odisha,Dhenkanal,Kamakhyanagar APMC,onion,2.0,2026-01-03
+Odisha,Mayurbhanja,Udala APMC,onion,3.0,2026-01-03
+Punjab,Bhatinda,Bhagta Bhai Ka APMC,onion,0.7,2026-01-03
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,onion,0.69,2026-01-03
+Punjab,Gurdaspur,Dinanagar APMC,onion,1.55,2026-01-03
+Punjab,Hoshiarpur,Mukerian APMC,onion,2.95,2026-01-03
+Punjab,Moga,Nihal Singh Wala APMC,onion,0.75,2026-01-03
+Punjab,Mohali,Banur APMC,onion,0.6,2026-01-03
+Punjab,Mohali,Dera Bassi APMC,onion,1.0,2026-01-03
+Punjab,Mohali,Kharar APMC,onion,4.8,2026-01-03
+Punjab,Patiala,Dudhansadhan APMC,onion,0.8,2026-01-03
+Punjab,Patiala,Ghanaur APMC,onion,0.2,2026-01-03
+Punjab,Patiala,Rajpura APMC,onion,9.0,2026-01-03
+Punjab,Sangrur,Bhawanigarh APMC,onion,10.0,2026-01-03
+Punjab,Sangrur,Dhuri APMC,onion,1.0,2026-01-03
+Punjab,Tarntaran,Tarantaran APMC,onion,0.52,2026-01-03
+Rajasthan,Bharatpur,Bayana APMC,onion,2.0,2026-01-03
+Rajasthan,Hanumangarh,Bhadara APMC,onion,1.6,2026-01-03
+Rajasthan,Hanumangarh,Goluwala APMC,onion,0.32,2026-01-03
+Rajasthan,Hanumangarh,Rawatsar APMC,onion,0.5,2026-01-03
+Tamil Nadu,Ariyalur,Ariyalur(Uzhavar Sandhai) APMC,onion,0.24,2026-01-03
+Tamil Nadu,Ariyalur,Jeyankondam (Uzhavar Sandhai ) APMC,onion,0.04,2026-01-03
+Tamil Nadu,Chengalpattu,Chengalpet(Uzhavar Sandhai ) APMC,onion,0.53,2026-01-03
+Tamil Nadu,Chengalpattu,Guduvancheri(Uzhavar Sandhai ) APMC,onion,0.57,2026-01-03
+Tamil Nadu,Chengalpattu,Jameenrayapettai(Uzhavar Sandhai ) APMC,onion,0.65,2026-01-03
+Tamil Nadu,Chengalpattu,Madhuranthagam(Uzhavar Sandhai ) APMC,onion,0.11,2026-01-03
+Tamil Nadu,Chengalpattu,Medavakkam(Uzhavar Sandhai ) APMC,onion,0.25,2026-01-03
+Tamil Nadu,Chengalpattu,Nanganallur(Uzhavar Sandhai ) APMC,onion,0.25,2026-01-03
+Tamil Nadu,Chengalpattu,Pallavaram(Uzhavar Sandhai ) APMC,onion,1.2,2026-01-03
+Tamil Nadu,Chengalpattu,Thirukalukundram(Uzhavar Sandhai ) APMC,onion,0.18,2026-01-03
+Tamil Nadu,Coimbatore,Kurichi(Uzhavar Sandhai ) APMC,onion,0.05,2026-01-03
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ) APMC,onion,0.95,2026-01-03
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ) APMC,onion,0.64,2026-01-03
+Tamil Nadu,Coimbatore,RSPuram(Uzhavar Sandhai ) APMC,onion,4.18,2026-01-03
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ) APMC,onion,1.52,2026-01-03
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ) APMC,onion,0.27,2026-01-03
+Tamil Nadu,Coimbatore,Sundarapuram(Uzhavar Sandhai ) APMC,onion,0.76,2026-01-03
+Tamil Nadu,Coimbatore,Udumalpet APMC,onion,0.82,2026-01-03
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ) APMC,onion,0.85,2026-01-03
+Tamil Nadu,Cuddalore,Chidambaram(Uzhavar Sandhai ) APMC,onion,0.02,2026-01-03
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ) APMC,onion,0.35,2026-01-03
+Tamil Nadu,Cuddalore,Panruti(Uzhavar Sandhai ) APMC,onion,0.04,2026-01-03
+Tamil Nadu,Cuddalore,Vadalur(Uzhavar Sandhai ) APMC,onion,0.17,2026-01-03
+Tamil Nadu,Cuddalore,Viruthachalam(Uzhavar Sandhai ) APMC,onion,0.14,2026-01-03
+Tamil Nadu,Dharmapuri,AJattihalli(Uzhavar Sandhai ) APMC,onion,0.82,2026-01-03
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ) APMC,onion,1.54,2026-01-03
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ) APMC,onion,0.24,2026-01-03
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),onion,0.13,2026-01-03
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ) APMC,onion,0.12,2026-01-03
+Tamil Nadu,Dharmapuri,Pennagaram(Uzhavar Sandhai ) APMC,onion,0.19,2026-01-03
+Tamil Nadu,Dindigul,Chinnalapatti(Uzhavar Sandhai ) APMC,onion,0.75,2026-01-03
+Tamil Nadu,Dindigul,Dindigul(Uzhavar Sandhai ) APMC,onion,1.0,2026-01-03
+Tamil Nadu,Dindigul,Palani(Uzhavar Sandhai ) APMC,onion,0.95,2026-01-03
+Tamil Nadu,Dindigul,Vedasanthur(Uzhavar Sandhai ) APMC,onion,0.02,2026-01-03
+Tamil Nadu,Erode,Gobichettipalayam(Uzhavar Sandhai ) APMC,onion,0.56,2026-01-03
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ) APMC,onion,0.35,2026-01-03
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ) APMC,onion,0.72,2026-01-03
+Tamil Nadu,Erode,Sathiyamagalam(Uzhavar Sandhai ) APMC,onion,0.33,2026-01-03
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ) APMC,onion,0.26,2026-01-03
+Tamil Nadu,Kallakuruchi,Kallakurichi(Uzhavar Sandhai ) APMC,onion,0.32,2026-01-03
+Tamil Nadu,Kallakuruchi,Sankarapuram(Uzhavar Sandhai ) APMC,onion,0.16,2026-01-03
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ) APMC,onion,0.65,2026-01-03
+Tamil Nadu,Kancheepuram,Padappai(Uzhavar Sandhai ) APMC,onion,0.88,2026-01-03
+Tamil Nadu,Kancheepuram,Sunguvarchatram(Uzhavar Sandhai ) APMC,onion,0.59,2026-01-03
+Tamil Nadu,Karur,Gandhigramam(Uzhavar Sandhai),onion,0.36,2026-01-03
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ) APMC,onion,0.75,2026-01-03
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ) APMC,onion,0.7,2026-01-03
+Tamil Nadu,Karur,Velayuthampalayam(Uzhavar Sandhai ) APMC,onion,0.16,2026-01-03
+Tamil Nadu,Krishnagiri,Avallapalli(Uzhavar Sandhai ) APMC,onion,0.24,2026-01-03
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ) APMC,onion,0.24,2026-01-03
+Tamil Nadu,Krishnagiri,Hosur(Uzhavar Sandhai ) APMC,onion,2.28,2026-01-03
+Tamil Nadu,Krishnagiri,Kaveripattinam(Uzhavar Sandhai ) APMC,onion,0.26,2026-01-03
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ) APMC,onion,1.46,2026-01-03
+Tamil Nadu,Madurai,Anaiyur(Uzhavar Sandhai ) APMC,onion,0.64,2026-01-03
+Tamil Nadu,Madurai,Anna nagar(Uzhavar Sandhai ) APMC,onion,1.2,2026-01-03
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ) APMC,onion,1.25,2026-01-03
+Tamil Nadu,Madurai,Melur(Uzhavar Sandhai ) APMC,onion,0.73,2026-01-03
+Tamil Nadu,Madurai,Palanganatham(Uzhavar Sandhai ) APMC,onion,1.4,2026-01-03
+Tamil Nadu,Madurai,Thirumangalam(Uzhavar Sandhai ) APMC,onion,0.78,2026-01-03
+Tamil Nadu,Madurai,Usilampatti(Uzhavar Sandhai ) APMC,onion,0.65,2026-01-03
+Tamil Nadu,Nagapattinam,Mayiladuthurai(Uzhavar Sandhai ) APMC,onion,0.19,2026-01-03
+Tamil Nadu,Nagapattinam,Nagapattinam(Uzhavar Sandhai ) APMC,onion,0.27,2026-01-03
+Tamil Nadu,Nagapattinam,Sirkali(Uzhavar Sandhai ) APMC,onion,0.37,2026-01-03
+Tamil Nadu,Nagapattinam,Vedaranyam(Uzhavar Sandhai),onion,0.07,2026-01-03
+Tamil Nadu,Nagercoil (Kannyiakumari),Myladi(Uzhavar Sandhai ) APMC,onion,0.07,2026-01-03
+Tamil Nadu,Nagercoil (Kannyiakumari),Vadaseri APMC,onion,0.64,2026-01-03
+Tamil Nadu,Namakkal,Kumarapalayam(Uzhavar Sandhai ) APMC,onion,0.22,2026-01-03
+Tamil Nadu,Namakkal,Mohanur(Uzhavar Sandhai ) APMC,onion,0.41,2026-01-03
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ) APMC,onion,1.95,2026-01-03
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ) APMC,onion,0.52,2026-01-03
+Tamil Nadu,Namakkal,Rasipuram(Uzhavar Sandhai ) APMC,onion,0.96,2026-01-03
+Tamil Nadu,Namakkal,Tiruchengode APMC,onion,0.27,2026-01-03
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ) APMC,onion,0.8,2026-01-03
+Tamil Nadu,Pudukkottai,Alangudi(Uzhavar Sandhai ) APMC,onion,0.12,2026-01-03
+Tamil Nadu,Pudukkottai,Aranthangi(Uzhavar Sandhai ) APMC,onion,0.13,2026-01-03
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ) APMC,onion,0.39,2026-01-03
+Tamil Nadu,Pudukkottai,Karambakkudi(Uzhavar Sandhai ) APMC,onion,0.22,2026-01-03
+Tamil Nadu,Pudukkottai,Ponnamaravathi(Uzhavar Sandhai),onion,0.18,2026-01-03
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ) APMC,onion,0.95,2026-01-03
+Tamil Nadu,Pudukkottai,Viralimalai(Uzhavar Sandhai ) APMC,onion,0.13,2026-01-03
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ) APMC,onion,0.41,2026-01-03
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ) APMC,onion,0.19,2026-01-03
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ) APMC,onion,0.82,2026-01-03
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ) APMC,onion,0.05,2026-01-03
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ) APMC,onion,0.2,2026-01-03
+Tamil Nadu,Salem,Athur(Uzhavar Sandhai ) APMC,onion,1.14,2026-01-03
+Tamil Nadu,Salem,Attayampatti(Uzhavar Sandhai ) APMC,onion,0.15,2026-01-03
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ) APMC,onion,0.31,2026-01-03
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ) APMC,onion,0.36,2026-01-03
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ) APMC,onion,0.68,2026-01-03
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ) APMC,onion,0.18,2026-01-03
+Tamil Nadu,Salem,Mecheri(Uzhavar Sandhai),onion,0.17,2026-01-03
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ) APMC,onion,0.65,2026-01-03
+Tamil Nadu,Salem,Sooramangalam(Uzhavar Sandhai ) APMC,onion,0.78,2026-01-03
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ) APMC,onion,0.48,2026-01-03
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ) APMC,onion,0.35,2026-01-03
+Tamil Nadu,Salem,Vazhapadi(Uzhavar Sandhai),onion,0.1,2026-01-03
+Tamil Nadu,Sivaganga,Devakottai (Uzhavar Sandhai ) APMC,onion,0.23,2026-01-03
+Tamil Nadu,Sivaganga,Karaikudi(Uzhavar Sandhai ) APMC,onion,0.42,2026-01-03
+Tamil Nadu,Sivaganga,Singampunari(Uzhavar Sandhai ) APMC,onion,0.41,2026-01-03
+Tamil Nadu,Sivaganga,Sivagangai (Uzhavar Sandhai ) APMC,onion,0.42,2026-01-03
+Tamil Nadu,Sivaganga,Tirupatthur(Uzhavar Sandhai ) APMC,onion,0.24,2026-01-03
+Tamil Nadu,Tenkasi,Sankarankoil(Uzhavar Sandhai ) APMC,onion,0.55,2026-01-03
+Tamil Nadu,Tenkasi,Tenkasi(Uzhavar Sandhai ) APMC,onion,0.4,2026-01-03
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ) APMC,onion,1.14,2026-01-03
+Tamil Nadu,Thanjavur,Papanasam(Uzhavar Sandhai ) APMC,onion,0.17,2026-01-03
+Tamil Nadu,Thanjavur,Pattukottai(Uzhavar Sandhai ) APMC,onion,0.68,2026-01-03
+Tamil Nadu,Thanjavur,Peravurani(Uzhavar Sandhai),onion,0.15,2026-01-03
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ) APMC,onion,1.28,2026-01-03
+Tamil Nadu,The Nilgiris,Coonoor(Uzhavar Sandhai ) APMC,onion,1.69,2026-01-03
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ) APMC,onion,0.11,2026-01-03
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ) APMC,onion,2.35,2026-01-03
+Tamil Nadu,Theni,Andipatti(Uzhavar Sandhai ) APMC,onion,0.83,2026-01-03
+Tamil Nadu,Theni,Bodinayakanur(Uzhavar Sandhai ) APMC,onion,0.36,2026-01-03
+Tamil Nadu,Theni,Chinnamanur(Uzhavar Sandhai ) APMC,onion,1.09,2026-01-03
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ) APMC,onion,0.29,2026-01-03
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ) APMC,onion,1.3,2026-01-03
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ) APMC,onion,0.45,2026-01-03
+Tamil Nadu,Theni,Theni(Uzhavar Sandhai ) APMC,onion,1.47,2026-01-03
+Tamil Nadu,Thiruchirappalli,KKNagar(Uzhavar Sandhai ) APMC,onion,1.8,2026-01-03
+Tamil Nadu,Thiruchirappalli,Lalgudi(Uzhavar Sandhai ) APMC,onion,0.3,2026-01-03
+Tamil Nadu,Thiruchirappalli,Manachanallur(Uzhavar Sandhai ) APMC,onion,0.16,2026-01-03
+Tamil Nadu,Thiruchirappalli,Manapparai(Uzhavar Sandhai ) APMC,onion,0.23,2026-01-03
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ) APMC,onion,0.76,2026-01-03
+Tamil Nadu,Thiruchirappalli,Thiruverumbur(Uzhavar Sandhai ) APMC,onion,1.0,2026-01-03
+Tamil Nadu,Thiruchirappalli,Thuraiyur APMC,onion,0.55,2026-01-03
+Tamil Nadu,Thirunelveli,Melapalayam(Uzhavar Sandhai ) APMC,onion,0.52,2026-01-03
+Tamil Nadu,Thirunelveli,NGO Colony(Uzhavar Sandhai ) APMC,onion,0.38,2026-01-03
+Tamil Nadu,Thirunelveli,Palayamkottai(Uzhavar Sandhai ) APMC,onion,2.85,2026-01-03
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ) APMC,onion,0.55,2026-01-03
+Tamil Nadu,Thirupathur,Vaniyampadi(Uzhavar Sandhai ) APMC,onion,0.8,2026-01-03
+Tamil Nadu,Thirupur,Dharapuram(Uzhavar Sandhai ) APMC,onion,1.1,2026-01-03
+Tamil Nadu,Thirupur,Kangayam(Uzhavar Sandhai ) APMC,onion,0.57,2026-01-03
+Tamil Nadu,Thirupur,Tiruppur (North) (Uzhavar Sandhai ) APMC,onion,0.82,2026-01-03
+Tamil Nadu,Thirupur,Tiruppur (South) (Uzhavar Sandhai ) APMC,onion,0.62,2026-01-03
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ) APMC,onion,1.25,2026-01-03
+Tamil Nadu,Thiruvannamalai,Chengam(Uzhavar Sandhai ) APMC,onion,0.24,2026-01-03
+Tamil Nadu,Thiruvannamalai,Cheyyar(Uzhavar Sandhai ) APMC,onion,0.1,2026-01-03
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ) APMC,onion,0.22,2026-01-03
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai(Uzhavar Sandhai ) APMC,onion,1.32,2026-01-03
+Tamil Nadu,Thiruvannamalai,Vandavasi(Uzhavar Sandhai ) APMC,onion,0.04,2026-01-03
+Tamil Nadu,Thiruvarur,Mannargudi I(Uzhavar Sandhai ) APMC,onion,1.2,2026-01-03
+Tamil Nadu,Thiruvarur,Mannargudi II(Uzhavar Sandhai ) APMC,onion,0.35,2026-01-03
+Tamil Nadu,Thiruvarur,Muthupettai(Uzhavar Sandhai ) APMC,onion,0.08,2026-01-03
+Tamil Nadu,Thiruvarur,Needamangalam(Uzhavar Sandhai ) APMC,onion,0.05,2026-01-03
+Tamil Nadu,Thiruvarur,Tiruvarur(Uzhavar Sandhai ) APMC,onion,0.03,2026-01-03
+Tamil Nadu,Thiruvellore,Ambattur(Uzhavar Sandhai ) APMC,onion,0.2,2026-01-03
+Tamil Nadu,Thiruvellore,Naravarikuppam(Uzhavar Sandhai ) APMC,onion,0.31,2026-01-03
+Tamil Nadu,Thiruvellore,Paruthipattu(Uzhavar Sandhai ) APMC,onion,0.19,2026-01-03
+Tamil Nadu,Thiruvellore,Perambakkam(Uzhavar Sandhai ) APMC,onion,0.11,2026-01-03
+Tamil Nadu,Thiruvellore,Tiruthani(Uzhavar Sandhai ) APMC,onion,1.0,2026-01-03
+Tamil Nadu,Thiruvellore,Tiruvallur(Uzhavar Sandhai ) APMC,onion,0.21,2026-01-03
+Tamil Nadu,Tuticorin,Kovilpatti(Uzhavar Sandhai ) APMC,onion,0.32,2026-01-03
+Tamil Nadu,Tuticorin,Tuticorin(Uzhavar Sandhai ) APMC,onion,1.2,2026-01-03
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ) APMC,onion,0.2,2026-01-03
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ) APMC,onion,1.2,2026-01-03
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ) APMC,onion,1.75,2026-01-03
+Tamil Nadu,Vellore,Pallikonda(Uzhavar Sandhai),onion,0.12,2026-01-03
+Tamil Nadu,Vellore,Perampet(Uzhavar Sandhai),onion,0.12,2026-01-03
+Tamil Nadu,Vellore,Thirupathur APMC,onion,0.9,2026-01-03
+Tamil Nadu,Vellore,Vellore APMC,onion,1.4,2026-01-03
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ) APMC,onion,0.35,2026-01-03
+Tamil Nadu,Villupuram,Tindivanam APMC,onion,1.1,2026-01-03
+Tamil Nadu,Villupuram,Ulundurpettai APMC,onion,0.49,2026-01-03
+Tamil Nadu,Villupuram,Villupuram(Uzhavar Sandhai ) APMC,onion,0.42,2026-01-03
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ) APMC,onion,0.64,2026-01-03
+Tamil Nadu,Virudhunagar,Kariyapatti(Uzhavar Sandhai ) APMC,onion,0.33,2026-01-03
+Tamil Nadu,Virudhunagar,Rajapalayam(Uzhavar Sandhai ) APMC,onion,0.28,2026-01-03
+Tamil Nadu,Virudhunagar,Sathur(Uzhavar Sandhai ) APMC,onion,0.05,2026-01-03
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ) APMC,onion,0.04,2026-01-03
+Tamil Nadu,Virudhunagar,Srivilliputhur(Uzhavar Sandhai ) APMC,onion,0.25,2026-01-03
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ) APMC,onion,0.06,2026-01-03
+Tamil Nadu,Virudhunagar,Virudhunagar(Uzhavar Sandhai ) APMC,onion,0.06,2026-01-03
+Telangana,Hyderabad,Bowenpally APMC,onion,124.8,2026-01-03
+Telangana,Hyderabad,Gudimalkapur APMC,onion,179.5,2026-01-03
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",onion,26.7,2026-01-03
+Tripura,Dhalai,Gandacharra APMC,onion,0.2,2026-01-03
+Tripura,Dhalai,Halahali,onion,3.0,2026-01-03
+Tripura,Khowai,Kalyanpur APMC,onion,3.5,2026-01-03
+Tripura,North Tripura,Dasda APMC,onion,0.2,2026-01-03
+Tripura,North Tripura,Kanchanpur,onion,0.9,2026-01-03
+Tripura,Sepahijala,Jampuijala APMC,onion,0.3,2026-01-03
+Tripura,Sepahijala,Melaghar APMC,onion,1.0,2026-01-03
+Uttar Pradesh,Agra,Samsabad APMC,onion,0.8,2026-01-03
+Uttar Pradesh,Aligarh,Charra APMC,onion,1.0,2026-01-03
+Uttar Pradesh,Balrampur,Tulsipur APMC,onion,6.5,2026-01-03
+Uttar Pradesh,Bulandshahar,Anoop Shahar APMC,onion,0.3,2026-01-03
+Uttar Pradesh,Bulandshahar,Gulavati APMC,onion,0.2,2026-01-03
+Uttar Pradesh,Bulandshahar,Siyana APMC,onion,2.0,2026-01-03
+Uttar Pradesh,Chitrakut,Karvi APMC,onion,9.0,2026-01-03
+Uttar Pradesh,Etah,Awagarh APMC,onion,1.4,2026-01-03
+Uttar Pradesh,Etawah,Jasvantnagar APMC,onion,7.0,2026-01-03
+Uttar Pradesh,Hathras,Shadabad APMC,onion,10.0,2026-01-03
+Uttar Pradesh,Kanpur Dehat,Pukharayan APMC,onion,8.0,2026-01-03
+Uttar Pradesh,Sambhal,Sambhal APMC,onion,4.0,2026-01-03
+Uttar Pradesh,Shamli,Kairana APMC,onion,1.2,2026-01-03
+Uttarakhand,Dehradoon,Rishikesh APMC,onion,8.2,2026-01-03
+Uttarakhand,Garhwal (Pauri),Kotadwara APMC,onion,1.6,2026-01-03
+Uttarakhand,Haridwar,Roorkee APMC,onion,2.0,2026-01-03
+Uttarakhand,Nanital,Haldwani APMC,onion,62.4,2026-01-03
+Uttarakhand,Nanital,Ramnagar APMC,onion,5.5,2026-01-03
+Uttarakhand,Udhamsinghnagar,Khateema APMC,onion,6.5,2026-01-03
+Uttarakhand,Udhamsinghnagar,Rudrapur APMC,onion,25.0,2026-01-03
+Uttarakhand,Udhamsinghnagar,Sitarganj APMC,onion,25.0,2026-01-03
+West Bengal,Bankura,Bankura Sadar APMC,onion,29.5,2026-01-03
+West Bengal,Bankura,Bishnupur(Bankura) APMC,onion,0.6,2026-01-03
+West Bengal,Birbhum,Birbhum APMC,onion,29.0,2026-01-03
+West Bengal,Birbhum,Bolpur APMC,onion,28.0,2026-01-03
+West Bengal,Birbhum,Sainthia APMC,onion,25.0,2026-01-03
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,onion,2.2,2026-01-03
+West Bengal,Darjeeling,Darjeeling APMC,onion,0.3,2026-01-03
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,onion,0.4,2026-01-03
+West Bengal,Darjeeling,Siliguri APMC,onion,26.0,2026-01-03
+West Bengal,Hooghly,Champadanga APMC,onion,6.2,2026-01-03
+West Bengal,Hooghly,Kalipur APMC,onion,8.4,2026-01-03
+West Bengal,Hooghly,Pandua APMC,onion,5.1,2026-01-03
+West Bengal,Hooghly,Sheoraphuly APMC,onion,150.0,2026-01-03
+West Bengal,Howrah,Ramkrishanpur(Howrah) APMC,onion,0.8,2026-01-03
+West Bengal,Howrah,Uluberia APMC,onion,0.36,2026-01-03
+West Bengal,Malda,English Bazar APMC,onion,18.0,2026-01-03
+West Bengal,Malda,Gajol APMC,onion,13.5,2026-01-03
+West Bengal,Malda,Samsi APMC,onion,16.0,2026-01-03
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,onion,2.5,2026-01-03
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,onion,1.5,2026-01-03
+West Bengal,Medinipur(W),Ghatal APMC,onion,2.6,2026-01-03
+West Bengal,Nadia,Bethuadahari APMC,onion,7.4,2026-01-03
+West Bengal,Nadia,Kalyani APMC,onion,2.5,2026-01-03
+West Bengal,Nadia,Karimpur APMC,onion,6.7,2026-01-03
+West Bengal,North 24 Parganas,Barasat APMC,onion,38.0,2026-01-03
+West Bengal,North 24 Parganas,Habra APMC,onion,35.0,2026-01-03
+West Bengal,Paschim Bardhaman,Asansol APMC,onion,18.5,2026-01-03
+West Bengal,Paschim Bardhaman,Durgapur APMC,onion,18.5,2026-01-03
+West Bengal,Purba Bardhaman,Burdwan APMC,onion,18.0,2026-01-03
+West Bengal,Purba Bardhaman,Kalna APMC,onion,3.7,2026-01-03
+West Bengal,Purba Bardhaman,Katwa APMC,onion,9.0,2026-01-03
+West Bengal,Puruliya,Balarampur APMC,onion,1.7,2026-01-03
+West Bengal,Sounth 24 Parganas,Baruipur(Canning) APMC,onion,3.5,2026-01-03
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,onion,3.2,2026-01-03
+West Bengal,Uttar Dinajpur,Islampur APMC,onion,4.0,2026-01-03
+Assam,Darrang,Kharupetia APMC,potato,1.0,2026-01-03
+Assam,Kamrup,Pamohi(Garchuk) APMC,potato,125.0,2026-01-03
+Bihar,Bhojpur,Aarah APMC,potato,1.33,2026-01-03
+Bihar,East Champaran/ Motihari,Chakia APMC,potato,60.0,2026-01-03
+Bihar,Rohtas,Natwar APMC,potato,4.0,2026-01-03
+Bihar,Sheohar,Sheohar APMC,potato,6.0,2026-01-03
+Goa,North Goa,Mapusa APMC,potato,9.76,2026-01-03
+Gujarat,Bharuch,Bharuch APMC,potato,32.5,2026-01-03
+Gujarat,Dahod,Dahod(Veg. Market) APMC,potato,44.0,2026-01-03
+Gujarat,Kheda,Nadiad APMC,potato,1.72,2026-01-03
+Gujarat,Kheda,Nadiyad(Chaklasi) APMC,potato,1.1,2026-01-03
+Gujarat,Kheda,Nadiyad(Piplag) APMC,potato,11.5,2026-01-03
+Gujarat,Navsari,Bilimora APMC,potato,6.8,2026-01-03
+Gujarat,Navsari,Navsari APMC,potato,38.1,2026-01-03
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,potato,123.35,2026-01-03
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,potato,38.98,2026-01-03
+Haryana,Ambala,Ambala Cantt. APMC,potato,87.8,2026-01-03
+Haryana,Ambala,Naraingarh APMC,potato,292.72,2026-01-03
+Haryana,Bhiwani,Ch. Dadri APMC,potato,13.7,2026-01-03
+Haryana,Faridabad,"New Grain Market , Faridabad APMC",potato,47.5,2026-01-03
+Haryana,Fatehabad,Jakhal APMC,potato,0.4,2026-01-03
+Haryana,Fatehabad,Tohana(New Veg Market) APMC,potato,9.5,2026-01-03
+Haryana,Gurgaon,Gurgaon APMC,potato,201.0,2026-01-03
+Haryana,Gurgaon,Sohna APMC,potato,7.6,2026-01-03
+Haryana,Hissar,Barwala(Hisar) APMC,potato,8.6,2026-01-03
+Haryana,Hissar,Hansi APMC,potato,52.5,2026-01-03
+Haryana,Hissar,Hissar APMC,potato,26.6,2026-01-03
+Haryana,Hissar,Uklana APMC,potato,0.3,2026-01-03
+Haryana,Jhajar,Bahadurgarh APMC,potato,22.0,2026-01-03
+Haryana,Jhajar,Jhajjar APMC,potato,14.0,2026-01-03
+Haryana,Jind,Narwana APMC,potato,10.0,2026-01-03
+Haryana,Kaithal,Cheeka APMC,potato,2.75,2026-01-03
+Haryana,Kaithal,Kaithal APMC,potato,15.0,2026-01-03
+Haryana,Kaithal,Pundri APMC,potato,1.4,2026-01-03
+Haryana,Kaithal,Siwan APMC,potato,6.4,2026-01-03
+Haryana,Karnal,"New Grain Market(main), Karnal APMC",potato,143.1,2026-01-03
+Haryana,Kurukshetra,Ladwa APMC,potato,1.4,2026-01-03
+Haryana,Mahendragarh-Narnaul,Mohindergarh APMC,potato,8.3,2026-01-03
+Haryana,Mahendragarh-Narnaul,Narnaul APMC,potato,4.5,2026-01-03
+Haryana,Mewat,Nuh APMC,potato,1.0,2026-01-03
+Haryana,Palwal,Hassanpur APMC,potato,0.4,2026-01-03
+Haryana,Panchkula,Barwala APMC,potato,4.0,2026-01-03
+Haryana,Panipat,Madlauda APMC,potato,0.8,2026-01-03
+Haryana,Panipat,Panipat APMC,potato,78.5,2026-01-03
+Haryana,Panipat,Samalkha APMC,potato,11.0,2026-01-03
+Haryana,Rewari,Kosli APMC,potato,0.2,2026-01-03
+Haryana,Rewari,Rewari APMC,potato,24.5,2026-01-03
+Haryana,Sirsa,Rania APMC,potato,0.2,2026-01-03
+Haryana,Sirsa,Rania(Jiwan nagar) APMC,potato,0.2,2026-01-03
+Haryana,Sirsa,Sirsa APMC,potato,27.5,2026-01-03
+Haryana,Sonipat,Ganaur APMC,potato,6.8,2026-01-03
+Haryana,Sonipat,Gohana APMC,potato,15.9,2026-01-03
+Haryana,Sonipat,Sonepat APMC,potato,30.4,2026-01-03
+Haryana,Sonipat,Sonepat(Kharkhoda) APMC,potato,10.0,2026-01-03
+Haryana,Yamuna Nagar,Chhachrauli APMC,potato,0.55,2026-01-03
+Haryana,Yamuna Nagar,Mustafabad APMC,potato,34.0,2026-01-03
+Haryana,Yamuna Nagar,Sadhaura APMC,potato,17.0,2026-01-03
+Himachal Pradesh,Kullu,PMY Kullu,potato,2.4,2026-01-03
+Himachal Pradesh,Kullu,SMY Bhuntar,potato,1.6,2026-01-03
+Himachal Pradesh,Mandi,SMY Takoli,potato,2.0,2026-01-03
+Karnataka,Kolar,Chickkaballapura APMC,potato,8.0,2026-01-03
+Karnataka,Kolar,Gowribidanoor APMC,potato,0.4,2026-01-03
+Karnataka,Shimoga,Shimoga APMC,potato,4.0,2026-01-03
+Kerala,Alappuzha,Kayamkulam APMC,potato,2.0,2026-01-03
+Kerala,Ernakulam,Piravam APMC,potato,3.0,2026-01-03
+Kerala,Idukki,Kattappana APMC,potato,3.0,2026-01-03
+Kerala,Idukki,Vandiperiyar APMC,potato,0.05,2026-01-03
+Kerala,Kannur,Thalasserry APMC,potato,0.2,2026-01-03
+Kerala,Kollam,Anchal APMC,potato,0.05,2026-01-03
+Kerala,Kollam,Chathanoor APMC,potato,0.4,2026-01-03
+Kerala,Kottayam,Kanjirappally APMC,potato,0.5,2026-01-03
+Kerala,Malappuram,Manjeri APMC,potato,6.0,2026-01-03
+Kerala,Malappuram,Thirurrangadi APMC,potato,3.0,2026-01-03
+Kerala,Palakad,Koduvayoor APMC,potato,40.0,2026-01-03
+Kerala,Thirssur,Wadakkanchery APMC,potato,0.4,2026-01-03
+Kerala,Thiruvananthapuram,Pothencode APMC,potato,650.0,2026-01-03
+Kerala,Thiruvananthapuram,Vamanapuram APMC,potato,0.15,2026-01-03
+Madhya Pradesh,Badwani,Badwani(F&V) APMC,potato,0.97,2026-01-03
+Madhya Pradesh,Chhindwara,Chindwara(F&V) APMC,potato,24.9,2026-01-03
+Madhya Pradesh,Dewas,Dewas(F&V) APMC,potato,1.2,2026-01-03
+Madhya Pradesh,Hoshangabad,Pipariya(F&V) APMC,potato,8.0,2026-01-03
+Madhya Pradesh,Jhabua,Petlawad(F&V) APMC,potato,0.94,2026-01-03
+Madhya Pradesh,Morena,Morena APMC,potato,47.5,2026-01-03
+Madhya Pradesh,Morena,Morena(F&V) APMC,potato,47.5,2026-01-03
+Madhya Pradesh,Sagar,Rehli(F&V) APMC,potato,2.0,2026-01-03
+Madhya Pradesh,Sagar,Sagar(F&V) APMC,potato,8.8,2026-01-03
+Madhya Pradesh,Satna,Maihar(F&V) APMC,potato,2.5,2026-01-03
+Madhya Pradesh,Satna,Satna(F&V) APMC,potato,1.0,2026-01-03
+Madhya Pradesh,Shivpuri,Karera(F&V) APMC,potato,5.5,2026-01-03
+Maharashtra,Ahmednagar,Ahmednagar APMC,potato,60.5,2026-01-03
+Maharashtra,Ahmednagar,Rahata APMC,potato,50.2,2026-01-03
+Maharashtra,Ahmednagar,Rahuri APMC,potato,15.1,2026-01-03
+Maharashtra,Ahmednagar,Shrirampur APMC,potato,13.0,2026-01-03
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market) APMC,potato,71.8,2026-01-03
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,potato,75.0,2026-01-03
+Maharashtra,Jalgaon,Bhusaval APMC,potato,16.1,2026-01-03
+Maharashtra,Nagpur,Kamthi APMC,potato,2.5,2026-01-03
+Maharashtra,Pune,Junnar(Narayangaon) APMC,potato,11.0,2026-01-03
+Maharashtra,Pune,Junnar(Otur) APMC,potato,27.4,2026-01-03
+Maharashtra,Pune,Khed(Chakan) APMC,potato,90.0,2026-01-03
+Maharashtra,Pune,Manchar APMC,potato,17.1,2026-01-03
+Maharashtra,Pune,Pune APMC,potato,983.4,2026-01-03
+Maharashtra,Pune,Pune(Khadiki) APMC,potato,1.4,2026-01-03
+Maharashtra,Pune,Pune(Manjri) APMC,potato,2.7,2026-01-03
+Maharashtra,Pune,Pune(Moshi) APMC,potato,86.1,2026-01-03
+Maharashtra,Pune,Pune(Pimpri) APMC,potato,0.2,2026-01-03
+Maharashtra,Satara,Satara APMC,potato,9.5,2026-01-03
+Maharashtra,Satara,Vaduj APMC,potato,6.0,2026-01-03
+Maharashtra,Satara,Vai APMC,potato,1.2,2026-01-03
+Maharashtra,Sholapur,Akluj APMC,potato,8.0,2026-01-03
+Maharashtra,Thane,Kalyan APMC,potato,0.3,2026-01-03
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",potato,695.05,2026-01-03
+Odisha,Balasore,Jaleswar APMC,potato,45.0,2026-01-03
+Odisha,Bargarh,Bargarh(Barapalli) APMC,potato,155.0,2026-01-03
+Odisha,Boudh,Boudh APMC,potato,0.2,2026-01-03
+Odisha,Dhenkanal,Hindol APMC,potato,3.7,2026-01-03
+Odisha,Dhenkanal,Kamakhyanagar APMC,potato,4.0,2026-01-03
+Odisha,Jagatsinghpur,Jagatsinghpur APMC,potato,200.0,2026-01-03
+Odisha,Mayurbhanja,Udala APMC,potato,3.0,2026-01-03
+Punjab,Bhatinda,Bhagta Bhai Ka APMC,potato,0.9,2026-01-03
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,potato,0.94,2026-01-03
+Punjab,Gurdaspur,Dera Baba Nanak APMC,potato,0.1,2026-01-03
+Punjab,Gurdaspur,Dinanagar APMC,potato,3.45,2026-01-03
+Punjab,Hoshiarpur,Mukerian APMC,potato,2.92,2026-01-03
+Punjab,Jalandhar,Bhogpur APMC,potato,0.2,2026-01-03
+Punjab,Mansa,Mansa APMC,potato,6.0,2026-01-03
+Punjab,Moga,Nihal Singh Wala APMC,potato,0.75,2026-01-03
+Punjab,Mohali,Banur APMC,potato,0.9,2026-01-03
+Punjab,Mohali,Dera Bassi APMC,potato,2.1,2026-01-03
+Punjab,Mohali,Kharar APMC,potato,9.7,2026-01-03
+Punjab,Patiala,Dudhansadhan APMC,potato,2.1,2026-01-03
+Punjab,Patiala,Ghanaur APMC,potato,0.2,2026-01-03
+Punjab,Patiala,Rajpura APMC,potato,8.0,2026-01-03
+Punjab,Sangrur,Bhawanigarh APMC,potato,10.0,2026-01-03
+Punjab,Sangrur,Dhuri APMC,potato,1.0,2026-01-03
+Punjab,Tarntaran,Tarantaran APMC,potato,1.4,2026-01-03
+Rajasthan,Bharatpur,Bayana APMC,potato,6.0,2026-01-03
+Rajasthan,Hanumangarh,Bhadara APMC,potato,5.0,2026-01-03
+Rajasthan,Hanumangarh,Goluwala APMC,potato,0.46,2026-01-03
+Rajasthan,Hanumangarh,Rawatsar APMC,potato,0.7,2026-01-03
+Tamil Nadu,Ariyalur,Ariyalur(Uzhavar Sandhai) APMC,potato,0.06,2026-01-03
+Tamil Nadu,Ariyalur,Jeyankondam (Uzhavar Sandhai ) APMC,potato,0.02,2026-01-03
+Tamil Nadu,Chengalpattu,Chengalpet(Uzhavar Sandhai ) APMC,potato,0.16,2026-01-03
+Tamil Nadu,Chengalpattu,Guduvancheri(Uzhavar Sandhai ) APMC,potato,0.13,2026-01-03
+Tamil Nadu,Chengalpattu,Jameenrayapettai(Uzhavar Sandhai ) APMC,potato,0.15,2026-01-03
+Tamil Nadu,Chengalpattu,Madhuranthagam(Uzhavar Sandhai ) APMC,potato,0.06,2026-01-03
+Tamil Nadu,Chengalpattu,Medavakkam(Uzhavar Sandhai ) APMC,potato,0.1,2026-01-03
+Tamil Nadu,Chengalpattu,Pallavaram(Uzhavar Sandhai ) APMC,potato,0.42,2026-01-03
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ) APMC,potato,0.58,2026-01-03
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ) APMC,potato,0.1,2026-01-03
+Tamil Nadu,Coimbatore,RSPuram(Uzhavar Sandhai ) APMC,potato,3.26,2026-01-03
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ) APMC,potato,1.58,2026-01-03
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ) APMC,potato,0.28,2026-01-03
+Tamil Nadu,Coimbatore,Sundarapuram(Uzhavar Sandhai ) APMC,potato,0.25,2026-01-03
+Tamil Nadu,Coimbatore,Udumalpet APMC,potato,0.07,2026-01-03
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ) APMC,potato,0.46,2026-01-03
+Tamil Nadu,Cuddalore,Chidambaram(Uzhavar Sandhai ) APMC,potato,0.01,2026-01-03
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ) APMC,potato,0.35,2026-01-03
+Tamil Nadu,Cuddalore,Panruti(Uzhavar Sandhai ) APMC,potato,0.03,2026-01-03
+Tamil Nadu,Cuddalore,Vadalur(Uzhavar Sandhai ) APMC,potato,0.16,2026-01-03
+Tamil Nadu,Cuddalore,Viruthachalam(Uzhavar Sandhai ) APMC,potato,0.08,2026-01-03
+Tamil Nadu,Dharmapuri,AJattihalli(Uzhavar Sandhai ) APMC,potato,0.69,2026-01-03
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ) APMC,potato,0.39,2026-01-03
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ) APMC,potato,0.12,2026-01-03
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),potato,0.08,2026-01-03
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ) APMC,potato,0.1,2026-01-03
+Tamil Nadu,Dharmapuri,Pennagaram(Uzhavar Sandhai ) APMC,potato,0.07,2026-01-03
+Tamil Nadu,Dindigul,Chinnalapatti(Uzhavar Sandhai ) APMC,potato,0.18,2026-01-03
+Tamil Nadu,Dindigul,Dindigul(Uzhavar Sandhai ) APMC,potato,0.45,2026-01-03
+Tamil Nadu,Dindigul,Palani(Uzhavar Sandhai ) APMC,potato,1.19,2026-01-03
+Tamil Nadu,Erode,Gobichettipalayam(Uzhavar Sandhai ) APMC,potato,0.26,2026-01-03
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ) APMC,potato,0.1,2026-01-03
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ) APMC,potato,0.35,2026-01-03
+Tamil Nadu,Erode,Sathiyamagalam(Uzhavar Sandhai ) APMC,potato,0.28,2026-01-03
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ) APMC,potato,0.08,2026-01-03
+Tamil Nadu,Kallakuruchi,Sankarapuram(Uzhavar Sandhai ) APMC,potato,0.16,2026-01-03
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ) APMC,potato,0.24,2026-01-03
+Tamil Nadu,Kancheepuram,Padappai(Uzhavar Sandhai ) APMC,potato,0.12,2026-01-03
+Tamil Nadu,Karur,Gandhigramam(Uzhavar Sandhai),potato,0.31,2026-01-03
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ) APMC,potato,0.37,2026-01-03
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ) APMC,potato,0.43,2026-01-03
+Tamil Nadu,Karur,Velayuthampalayam(Uzhavar Sandhai ) APMC,potato,0.08,2026-01-03
+Tamil Nadu,Krishnagiri,Avallapalli(Uzhavar Sandhai ) APMC,potato,0.14,2026-01-03
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ) APMC,potato,0.18,2026-01-03
+Tamil Nadu,Krishnagiri,Hosur(Uzhavar Sandhai ) APMC,potato,2.08,2026-01-03
+Tamil Nadu,Krishnagiri,Kaveripattinam(Uzhavar Sandhai ) APMC,potato,0.06,2026-01-03
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ) APMC,potato,0.95,2026-01-03
+Tamil Nadu,Madurai,Anaiyur(Uzhavar Sandhai ) APMC,potato,0.34,2026-01-03
+Tamil Nadu,Madurai,Anna nagar(Uzhavar Sandhai ) APMC,potato,1.0,2026-01-03
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ) APMC,potato,1.4,2026-01-03
+Tamil Nadu,Madurai,Palanganatham(Uzhavar Sandhai ) APMC,potato,0.5,2026-01-03
+Tamil Nadu,Nagapattinam,Mayiladuthurai(Uzhavar Sandhai ) APMC,potato,0.08,2026-01-03
+Tamil Nadu,Nagapattinam,Nagapattinam(Uzhavar Sandhai ) APMC,potato,0.11,2026-01-03
+Tamil Nadu,Nagapattinam,Sirkali(Uzhavar Sandhai ) APMC,potato,0.27,2026-01-03
+Tamil Nadu,Nagapattinam,Vedaranyam(Uzhavar Sandhai),potato,0.07,2026-01-03
+Tamil Nadu,Nagercoil (Kannyiakumari),Myladi(Uzhavar Sandhai ) APMC,potato,0.06,2026-01-03
+Tamil Nadu,Nagercoil (Kannyiakumari),Vadaseri APMC,potato,0.62,2026-01-03
+Tamil Nadu,Namakkal,Kumarapalayam(Uzhavar Sandhai ) APMC,potato,0.06,2026-01-03
+Tamil Nadu,Namakkal,Mohanur(Uzhavar Sandhai ) APMC,potato,0.22,2026-01-03
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ) APMC,potato,1.15,2026-01-03
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ) APMC,potato,0.22,2026-01-03
+Tamil Nadu,Namakkal,Tiruchengode APMC,potato,0.22,2026-01-03
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ) APMC,potato,0.76,2026-01-03
+Tamil Nadu,Pudukkottai,Alangudi(Uzhavar Sandhai ) APMC,potato,0.13,2026-01-03
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ) APMC,potato,0.36,2026-01-03
+Tamil Nadu,Pudukkottai,Karambakkudi(Uzhavar Sandhai ) APMC,potato,0.21,2026-01-03
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ) APMC,potato,0.76,2026-01-03
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ) APMC,potato,0.46,2026-01-03
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ) APMC,potato,0.1,2026-01-03
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ) APMC,potato,0.29,2026-01-03
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ) APMC,potato,0.15,2026-01-03
+Tamil Nadu,Salem,Athur(Uzhavar Sandhai ) APMC,potato,0.28,2026-01-03
+Tamil Nadu,Salem,Attayampatti(Uzhavar Sandhai ) APMC,potato,0.03,2026-01-03
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ) APMC,potato,0.31,2026-01-03
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ) APMC,potato,0.16,2026-01-03
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ) APMC,potato,0.31,2026-01-03
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ) APMC,potato,0.16,2026-01-03
+Tamil Nadu,Salem,Mecheri(Uzhavar Sandhai),potato,0.03,2026-01-03
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ) APMC,potato,0.28,2026-01-03
+Tamil Nadu,Salem,Sooramangalam(Uzhavar Sandhai ) APMC,potato,0.56,2026-01-03
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ) APMC,potato,0.36,2026-01-03
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ) APMC,potato,0.28,2026-01-03
+Tamil Nadu,Salem,Vazhapadi(Uzhavar Sandhai),potato,0.03,2026-01-03
+Tamil Nadu,Sivaganga,Devakottai (Uzhavar Sandhai ) APMC,potato,0.19,2026-01-03
+Tamil Nadu,Sivaganga,Karaikudi(Uzhavar Sandhai ) APMC,potato,0.49,2026-01-03
+Tamil Nadu,Sivaganga,Singampunari(Uzhavar Sandhai ) APMC,potato,0.19,2026-01-03
+Tamil Nadu,Sivaganga,Sivagangai (Uzhavar Sandhai ) APMC,potato,0.41,2026-01-03
+Tamil Nadu,Sivaganga,Tirupatthur(Uzhavar Sandhai ) APMC,potato,0.24,2026-01-03
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ) APMC,potato,0.81,2026-01-03
+Tamil Nadu,Thanjavur,Papanasam(Uzhavar Sandhai ) APMC,potato,0.09,2026-01-03
+Tamil Nadu,Thanjavur,Pattukottai(Uzhavar Sandhai ) APMC,potato,0.25,2026-01-03
+Tamil Nadu,Thanjavur,Peravurani(Uzhavar Sandhai),potato,0.15,2026-01-03
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ) APMC,potato,1.38,2026-01-03
+Tamil Nadu,Thanjavur,Tirukattupalli(Uzhavar Sandhai ) APMC,potato,0.26,2026-01-03
+Tamil Nadu,The Nilgiris,Coonoor(Uzhavar Sandhai ) APMC,potato,0.76,2026-01-03
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ) APMC,potato,0.11,2026-01-03
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ) APMC,potato,2.35,2026-01-03
+Tamil Nadu,Theni,Andipatti(Uzhavar Sandhai ) APMC,potato,0.3,2026-01-03
+Tamil Nadu,Theni,Bodinayakanur(Uzhavar Sandhai ) APMC,potato,0.24,2026-01-03
+Tamil Nadu,Theni,Chinnamanur(Uzhavar Sandhai ) APMC,potato,0.3,2026-01-03
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ) APMC,potato,0.23,2026-01-03
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ) APMC,potato,1.3,2026-01-03
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ) APMC,potato,0.42,2026-01-03
+Tamil Nadu,Theni,Theni(Uzhavar Sandhai ) APMC,potato,0.39,2026-01-03
+Tamil Nadu,Thiruchirappalli,KKNagar(Uzhavar Sandhai ) APMC,potato,1.7,2026-01-03
+Tamil Nadu,Thiruchirappalli,Lalgudi(Uzhavar Sandhai ) APMC,potato,0.25,2026-01-03
+Tamil Nadu,Thiruchirappalli,Manachanallur(Uzhavar Sandhai ) APMC,potato,0.15,2026-01-03
+Tamil Nadu,Thiruchirappalli,Manapparai(Uzhavar Sandhai ) APMC,potato,0.23,2026-01-03
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ) APMC,potato,0.42,2026-01-03
+Tamil Nadu,Thiruchirappalli,Thiruverumbur(Uzhavar Sandhai ) APMC,potato,0.65,2026-01-03
+Tamil Nadu,Thiruchirappalli,Thuraiyur APMC,potato,0.55,2026-01-03
+Tamil Nadu,Thirunelveli,Melapalayam(Uzhavar Sandhai ) APMC,potato,0.34,2026-01-03
+Tamil Nadu,Thirunelveli,NGO Colony(Uzhavar Sandhai ) APMC,potato,0.56,2026-01-03
+Tamil Nadu,Thirunelveli,Palayamkottai(Uzhavar Sandhai ) APMC,potato,2.35,2026-01-03
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ) APMC,potato,0.3,2026-01-03
+Tamil Nadu,Thirupathur,Vaniyampadi(Uzhavar Sandhai ) APMC,potato,0.8,2026-01-03
+Tamil Nadu,Thirupur,Dharapuram(Uzhavar Sandhai ) APMC,potato,0.7,2026-01-03
+Tamil Nadu,Thirupur,Palladam(Uzhavar Sandhai ) APMC,potato,0.12,2026-01-03
+Tamil Nadu,Thirupur,Tiruppur (North) (Uzhavar Sandhai ) APMC,potato,0.02,2026-01-03
+Tamil Nadu,Thirupur,Tiruppur (South) (Uzhavar Sandhai ) APMC,potato,0.68,2026-01-03
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ) APMC,potato,0.5,2026-01-03
+Tamil Nadu,Thiruvannamalai,Chengam(Uzhavar Sandhai ) APMC,potato,0.15,2026-01-03
+Tamil Nadu,Thiruvannamalai,Cheyyar(Uzhavar Sandhai ) APMC,potato,0.05,2026-01-03
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ) APMC,potato,0.24,2026-01-03
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai(Uzhavar Sandhai ) APMC,potato,0.82,2026-01-03
+Tamil Nadu,Thiruvannamalai,Vandavasi(Uzhavar Sandhai ) APMC,potato,0.04,2026-01-03
+Tamil Nadu,Thiruvarur,Mannargudi I(Uzhavar Sandhai ) APMC,potato,1.33,2026-01-03
+Tamil Nadu,Thiruvarur,Mannargudi II(Uzhavar Sandhai ) APMC,potato,0.52,2026-01-03
+Tamil Nadu,Thiruvarur,Muthupettai(Uzhavar Sandhai ) APMC,potato,0.08,2026-01-03
+Tamil Nadu,Thiruvellore,Ambattur(Uzhavar Sandhai ) APMC,potato,0.07,2026-01-03
+Tamil Nadu,Thiruvellore,Paruthipattu(Uzhavar Sandhai ) APMC,potato,0.08,2026-01-03
+Tamil Nadu,Thiruvellore,Tiruthani(Uzhavar Sandhai ) APMC,potato,0.05,2026-01-03
+Tamil Nadu,Tuticorin,Kovilpatti(Uzhavar Sandhai ) APMC,potato,0.16,2026-01-03
+Tamil Nadu,Tuticorin,Tuticorin(Uzhavar Sandhai ) APMC,potato,0.65,2026-01-03
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ) APMC,potato,0.06,2026-01-03
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ) APMC,potato,0.17,2026-01-03
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ) APMC,potato,1.05,2026-01-03
+Tamil Nadu,Vellore,Pallikonda(Uzhavar Sandhai),potato,0.04,2026-01-03
+Tamil Nadu,Vellore,Perampet(Uzhavar Sandhai),potato,0.04,2026-01-03
+Tamil Nadu,Vellore,Thirupathur APMC,potato,0.3,2026-01-03
+Tamil Nadu,Vellore,Vellore APMC,potato,0.7,2026-01-03
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ) APMC,potato,0.07,2026-01-03
+Tamil Nadu,Villupuram,Tindivanam APMC,potato,0.12,2026-01-03
+Tamil Nadu,Villupuram,Ulundurpettai APMC,potato,0.25,2026-01-03
+Tamil Nadu,Villupuram,Villupuram(Uzhavar Sandhai ) APMC,potato,0.16,2026-01-03
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ) APMC,potato,0.22,2026-01-03
+Tamil Nadu,Virudhunagar,Kariyapatti(Uzhavar Sandhai ) APMC,potato,0.1,2026-01-03
+Tamil Nadu,Virudhunagar,Rajapalayam(Uzhavar Sandhai ) APMC,potato,0.28,2026-01-03
+Tamil Nadu,Virudhunagar,Sathur(Uzhavar Sandhai ) APMC,potato,0.02,2026-01-03
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ) APMC,potato,0.04,2026-01-03
+Tamil Nadu,Virudhunagar,Srivilliputhur(Uzhavar Sandhai ) APMC,potato,0.16,2026-01-03
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ) APMC,potato,0.06,2026-01-03
+Tamil Nadu,Virudhunagar,Virudhunagar(Uzhavar Sandhai ) APMC,potato,0.03,2026-01-03
+Telangana,Hyderabad,Bowenpally APMC,potato,391.2,2026-01-03
+Telangana,Hyderabad,Gudimalkapur APMC,potato,191.9,2026-01-03
+Telangana,Hyderabad,Hyderabad (F&V) APMC,potato,2.5,2026-01-03
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",potato,14.5,2026-01-03
+Telangana,Warangal,Warangal APMC,potato,3.0,2026-01-03
+Tripura,Dhalai,Chowmanu APMC,potato,1.5,2026-01-03
+Tripura,Dhalai,Halahali,potato,3.5,2026-01-03
+Tripura,Dhalai,Masli,potato,0.3,2026-01-03
+Tripura,Gomati,Garjee APMC,potato,1.5,2026-01-03
+Tripura,Gomati,Nutanbazar APMC,potato,0.9,2026-01-03
+Tripura,Gomati,Silachhari APMC,potato,0.1,2026-01-03
+Tripura,Khowai,Bachaibari APMC,potato,0.2,2026-01-03
+Tripura,Khowai,Kalyanpur APMC,potato,7.0,2026-01-03
+Tripura,North Tripura,Dasda APMC,potato,0.3,2026-01-03
+Tripura,North Tripura,Kanchanpur,potato,1.3,2026-01-03
+Tripura,North Tripura,Panisagar APMC,potato,6.0,2026-01-03
+Tripura,Sepahijala,Boxonagar,potato,0.26,2026-01-03
+Tripura,Sepahijala,Jampuijala APMC,potato,0.4,2026-01-03
+Tripura,Sepahijala,Melaghar APMC,potato,2.0,2026-01-03
+Tripura,Sepahijala,Sonamura APMC,potato,0.13,2026-01-03
+Tripura,South Tripura,Manubazar,potato,1.0,2026-01-03
+Tripura,South Tripura,Santir Bazar APMC,potato,32.5,2026-01-03
+Tripura,Unokoti,Panichowki,potato,1.8,2026-01-03
+Uttar Pradesh,Agra,Samsabad APMC,potato,340.0,2026-01-03
+Uttar Pradesh,Aligarh,Charra APMC,potato,2.0,2026-01-03
+Uttar Pradesh,Amroha,Hasanpur APMC,potato,5.0,2026-01-03
+Uttar Pradesh,Badaun,Bisoli APMC,potato,513.4,2026-01-03
+Uttar Pradesh,Baghpat,Khekda APMC,potato,0.4,2026-01-03
+Uttar Pradesh,Balrampur,Tulsipur APMC,potato,13.0,2026-01-03
+Uttar Pradesh,Bulandshahar,Anoop Shahar APMC,potato,5.0,2026-01-03
+Uttar Pradesh,Bulandshahar,Gulavati APMC,potato,0.5,2026-01-03
+Uttar Pradesh,Bulandshahar,Siyana APMC,potato,5.5,2026-01-03
+Uttar Pradesh,Chitrakut,Karvi APMC,potato,13.0,2026-01-03
+Uttar Pradesh,Etah,Awagarh APMC,potato,5.5,2026-01-03
+Uttar Pradesh,Etawah,Jasvantnagar APMC,potato,130.0,2026-01-03
+Uttar Pradesh,Fatehpur,Fatehpur APMC,potato,23.2,2026-01-03
+Uttar Pradesh,Hathras,Shadabad APMC,potato,10.0,2026-01-03
+Uttar Pradesh,Hathras,Sikandraraau APMC,potato,8.0,2026-01-03
+Uttar Pradesh,Kanpur Dehat,Pukharayan APMC,potato,30.0,2026-01-03
+Uttar Pradesh,Raebarelli,Lalganj APMC,potato,31.0,2026-01-03
+Uttar Pradesh,Saharanpur,Chutmalpur APMC,potato,6.2,2026-01-03
+Uttar Pradesh,Sambhal,Sambhal APMC,potato,85.0,2026-01-03
+Uttar Pradesh,Shamli,Kairana APMC,potato,1.3,2026-01-03
+Uttarakhand,Champawat,Tanakpur APMC,potato,0.5,2026-01-03
+Uttarakhand,Dehradoon,Rishikesh APMC,potato,14.5,2026-01-03
+Uttarakhand,Garhwal (Pauri),Kotadwara APMC,potato,2.1,2026-01-03
+Uttarakhand,Haridwar,Bhagwanpur(Naveen Mandi Sthal) APMC,potato,1.2,2026-01-03
+Uttarakhand,Haridwar,Roorkee APMC,potato,2.5,2026-01-03
+Uttarakhand,Nanital,Haldwani APMC,potato,74.5,2026-01-03
+Uttarakhand,Nanital,Ramnagar APMC,potato,1.4,2026-01-03
+Uttarakhand,Udhamsinghnagar,Kashipur APMC,potato,14.8,2026-01-03
+Uttarakhand,Udhamsinghnagar,Khateema APMC,potato,6.0,2026-01-03
+Uttarakhand,Udhamsinghnagar,Kicchha APMC,potato,4.0,2026-01-03
+Uttarakhand,Udhamsinghnagar,Rudrapur APMC,potato,20.0,2026-01-03
+Uttarakhand,Udhamsinghnagar,Sitarganj APMC,potato,23.0,2026-01-03
+West Bengal,Bankura,Bankura Sadar APMC,potato,35.0,2026-01-03
+West Bengal,Bankura,Bishnupur(Bankura) APMC,potato,4.4,2026-01-03
+West Bengal,Bankura,Indus(Bankura Sadar) APMC,potato,9.0,2026-01-03
+West Bengal,Bankura,Khatra APMC,potato,4.3,2026-01-03
+West Bengal,Birbhum,Birbhum APMC,potato,52.0,2026-01-03
+West Bengal,Birbhum,Bolpur APMC,potato,50.0,2026-01-03
+West Bengal,Birbhum,Sainthia APMC,potato,54.0,2026-01-03
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,potato,10.0,2026-01-03
+West Bengal,Darjeeling,Darjeeling APMC,potato,1.8,2026-01-03
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,potato,1.7,2026-01-03
+West Bengal,Darjeeling,Siliguri APMC,potato,125.0,2026-01-03
+West Bengal,Hooghly,Champadanga APMC,potato,3.5,2026-01-03
+West Bengal,Hooghly,Kalipur APMC,potato,16.6,2026-01-03
+West Bengal,Hooghly,Pandua APMC,potato,6.3,2026-01-03
+West Bengal,Hooghly,Sheoraphuly APMC,potato,1.6,2026-01-03
+West Bengal,Howrah,Ramkrishanpur(Howrah) APMC,potato,13.5,2026-01-03
+West Bengal,Howrah,Uluberia APMC,potato,4.6,2026-01-03
+West Bengal,Jhargram,Jhargram APMC,potato,3.5,2026-01-03
+West Bengal,Malda,English Bazar APMC,potato,20.0,2026-01-03
+West Bengal,Malda,Gajol APMC,potato,32.0,2026-01-03
+West Bengal,Malda,Samsi APMC,potato,46.0,2026-01-03
+West Bengal,Medinipur(E),Kolaghat APMC,potato,8.0,2026-01-03
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,potato,35.0,2026-01-03
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,potato,3.2,2026-01-03
+West Bengal,Medinipur(W),Ghatal APMC,potato,3.5,2026-01-03
+West Bengal,Murshidabad,Beldanga APMC,potato,3.0,2026-01-03
+West Bengal,Murshidabad,Jiaganj APMC,potato,15.0,2026-01-03
+West Bengal,Murshidabad,Kandi APMC,potato,20.0,2026-01-03
+West Bengal,Nadia,Bethuadahari APMC,potato,6.2,2026-01-03
+West Bengal,Nadia,Kalyani APMC,potato,3.4,2026-01-03
+West Bengal,Nadia,Karimpur APMC,potato,7.6,2026-01-03
+West Bengal,North 24 Parganas,Barasat APMC,potato,49.0,2026-01-03
+West Bengal,North 24 Parganas,Habra APMC,potato,45.0,2026-01-03
+West Bengal,Paschim Bardhaman,Asansol APMC,potato,62.5,2026-01-03
+West Bengal,Paschim Bardhaman,Durgapur APMC,potato,60.0,2026-01-03
+West Bengal,Purba Bardhaman,Burdwan APMC,potato,20.0,2026-01-03
+West Bengal,Purba Bardhaman,Guskara APMC,potato,14.5,2026-01-03
+West Bengal,Purba Bardhaman,Kalna APMC,potato,16.5,2026-01-03
+West Bengal,Purba Bardhaman,Katwa APMC,potato,14.0,2026-01-03
+West Bengal,Purba Bardhaman,Memari APMC,potato,15.0,2026-01-03
+West Bengal,Puruliya,Balarampur APMC,potato,8.0,2026-01-03
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,potato,13.2,2026-01-03
+West Bengal,Uttar Dinajpur,Islampur APMC,potato,18.5,2026-01-03
+West Bengal,Uttar Dinajpur,Raiganj APMC,potato,21.0,2026-01-03
+Karnataka,Bellary,Hospet APMC,rice,3.4,2026-01-03
+Karnataka,Davangere,Honnali APMC,rice,150.0,2026-01-03
+Maharashtra,Raigad,Alibagh APMC,rice,1.0,2026-01-03
+Maharashtra,Raigad,Murud APMC,rice,1.0,2026-01-03
+Maharashtra,Thane,Kalyan APMC,rice,0.3,2026-01-03
+Maharashtra,Thane,Palghar APMC,rice,12.0,2026-01-03
+Maharashtra,Thane,Ulhasnagar APMC,rice,56.0,2026-01-03
+Odisha,Mayurbhanja,Karanjia APMC,rice,2.0,2026-01-03
+Odisha,Mayurbhanja,Udala APMC,rice,3.0,2026-01-03
+Tripura,Dhalai,Masli,rice,0.3,2026-01-03
+Tripura,Gomati,Nutanbazar APMC,rice,1.0,2026-01-03
+Tripura,Khowai,Kalyanpur APMC,rice,6.0,2026-01-03
+Tripura,North Tripura,Dasda APMC,rice,0.3,2026-01-03
+Tripura,North Tripura,Kanchanpur,rice,1.5,2026-01-03
+Tripura,Sepahijala,Bishalgarh APMC,rice,0.8,2026-01-03
+Tripura,Sepahijala,Jampuijala APMC,rice,0.4,2026-01-03
+Uttar Pradesh,Balrampur,Panchpedwa APMC,rice,2.5,2026-01-03
+Uttar Pradesh,Balrampur,Tulsipur APMC,rice,4.0,2026-01-03
+Uttar Pradesh,Kanpur,Varipaal APMC,rice,14.6,2026-01-03
+Uttar Pradesh,Kanpur Dehat,Pukharayan APMC,rice,47.5,2026-01-03
+Uttar Pradesh,Lucknow,Banthara APMC,rice,154.0,2026-01-03
+Uttarakhand,Udhamsinghnagar,Gadarpur APMC,rice,153.7,2026-01-03
+West Bengal,Bankura,Bankura Sadar APMC,rice,27.0,2026-01-03
+West Bengal,Bankura,Bishnupur(Bankura) APMC,rice,0.42,2026-01-03
+West Bengal,Bankura,Indus(Bankura Sadar) APMC,rice,4.5,2026-01-03
+West Bengal,Birbhum,Birbhum APMC,rice,33.0,2026-01-03
+West Bengal,Birbhum,Bolpur APMC,rice,31.0,2026-01-03
+West Bengal,Birbhum,Sainthia APMC,rice,35.0,2026-01-03
+West Bengal,Darjeeling,Siliguri APMC,rice,160.0,2026-01-03
+West Bengal,Hooghly,Champadanga APMC,rice,5.3,2026-01-03
+West Bengal,Hooghly,Kalipur APMC,rice,19.2,2026-01-03
+West Bengal,Hooghly,Pandua APMC,rice,1.8,2026-01-03
+West Bengal,Hooghly,Sheoraphuly APMC,rice,3.9,2026-01-03
+West Bengal,Howrah,Ramkrishanpur(Howrah) APMC,rice,0.45,2026-01-03
+West Bengal,Howrah,Uluberia APMC,rice,0.35,2026-01-03
+West Bengal,Malda,Gajol APMC,rice,18.0,2026-01-03
+West Bengal,Malda,Samsi APMC,rice,10.0,2026-01-03
+West Bengal,Medinipur(E),Kolaghat APMC,rice,10.0,2026-01-03
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,rice,16.0,2026-01-03
+West Bengal,Medinipur(W),Ghatal APMC,rice,12.5,2026-01-03
+West Bengal,Murshidabad,Beldanga APMC,rice,3.0,2026-01-03
+West Bengal,Murshidabad,Jiaganj APMC,rice,14.0,2026-01-03
+West Bengal,Murshidabad,Kandi APMC,rice,25.0,2026-01-03
+West Bengal,Murshidabad,Kasimbazar APMC,rice,25.0,2026-01-03
+West Bengal,Murshidabad,Lalbagh APMC,rice,10.0,2026-01-03
+West Bengal,Nadia,Bethuadahari APMC,rice,6.6,2026-01-03
+West Bengal,Nadia,Kalyani APMC,rice,12.0,2026-01-03
+West Bengal,Nadia,Karimpur APMC,rice,5.4,2026-01-03
+West Bengal,Paschim Bardhaman,Asansol APMC,rice,62.0,2026-01-03
+West Bengal,Paschim Bardhaman,Durgapur APMC,rice,63.0,2026-01-03
+West Bengal,Purba Bardhaman,Burdwan APMC,rice,40.0,2026-01-03
+West Bengal,Purba Bardhaman,Guskara APMC,rice,50.0,2026-01-03
+West Bengal,Purba Bardhaman,Kalna APMC,rice,51.0,2026-01-03
+West Bengal,Purba Bardhaman,Katwa APMC,rice,22.0,2026-01-03
+West Bengal,Purba Bardhaman,Memari APMC,rice,29.0,2026-01-03
+West Bengal,Puruliya,Balarampur APMC,rice,7.5,2026-01-03
+West Bengal,Sounth 24 Parganas,Baruipur(Canning) APMC,rice,17.5,2026-01-03
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,rice,17.5,2026-01-03
+Andhra Pradesh,Chittor,Kalikiri APMC,tomato,14.6,2026-01-03
+Andhra Pradesh,Chittor,Madanapalli APMC,tomato,53.0,2026-01-03
+Andhra Pradesh,Chittor,Punganur APMC,tomato,12.7,2026-01-03
+Assam,Darrang,Balugaon APMC,tomato,4.0,2026-01-03
+Assam,Darrang,Besimari APMC,tomato,10.0,2026-01-03
+Assam,Darrang,Kharupetia APMC,tomato,1.0,2026-01-03
+Assam,Kamrup,Pamohi(Garchuk) APMC,tomato,27.0,2026-01-03
+Gujarat,Bharuch,Bharuch APMC,tomato,12.2,2026-01-03
+Gujarat,Dahod,Dahod(Veg. Market) APMC,tomato,13.5,2026-01-03
+Gujarat,Kheda,Nadiad APMC,tomato,1.4,2026-01-03
+Gujarat,Kheda,Nadiyad(Chaklasi) APMC,tomato,0.1,2026-01-03
+Gujarat,Kheda,Nadiyad(Piplag) APMC,tomato,10.5,2026-01-03
+Gujarat,Navsari,Bilimora APMC,tomato,5.4,2026-01-03
+Gujarat,Navsari,Navsari APMC,tomato,12.06,2026-01-03
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,tomato,24.04,2026-01-03
+Gujarat,Surat,Surat APMC,tomato,415.0,2026-01-03
+Gujarat,Vadodara(Baroda),Vadodara(Sayajipura) APMC,tomato,16.87,2026-01-03
+Haryana,Bhiwani,Ch. Dadri APMC,tomato,6.0,2026-01-03
+Haryana,Faridabad,"New Grain Market , Faridabad APMC",tomato,49.7,2026-01-03
+Haryana,Fatehabad,Jakhal APMC,tomato,0.3,2026-01-03
+Haryana,Fatehabad,Tohana(New Veg Market) APMC,tomato,5.0,2026-01-03
+Haryana,Gurgaon,Gurgaon APMC,tomato,98.0,2026-01-03
+Haryana,Gurgaon,Pataudi APMC,tomato,3.4,2026-01-03
+Haryana,Gurgaon,Sohna APMC,tomato,4.1,2026-01-03
+Haryana,Hissar,Barwala(Hisar) APMC,tomato,6.7,2026-01-03
+Haryana,Hissar,Hansi APMC,tomato,26.8,2026-01-03
+Haryana,Hissar,Hissar APMC,tomato,17.7,2026-01-03
+Haryana,Hissar,Uklana APMC,tomato,0.2,2026-01-03
+Haryana,Jhajar,Bahadurgarh APMC,tomato,7.7,2026-01-03
+Haryana,Jhajar,Jhajjar APMC,tomato,5.8,2026-01-03
+Haryana,Jind,Narwana APMC,tomato,0.5,2026-01-03
+Haryana,Kaithal,Cheeka APMC,tomato,0.15,2026-01-03
+Haryana,Kaithal,Kaithal APMC,tomato,53.0,2026-01-03
+Haryana,Kaithal,Pundri APMC,tomato,0.2,2026-01-03
+Haryana,Kaithal,Siwan APMC,tomato,1.2,2026-01-03
+Haryana,Karnal,"New Grain Market(main), Karnal APMC",tomato,27.7,2026-01-03
+Haryana,Karnal,Tarori APMC,tomato,0.6,2026-01-03
+Haryana,Mahendragarh-Narnaul,Mohindergarh APMC,tomato,7.6,2026-01-03
+Haryana,Mahendragarh-Narnaul,Narnaul APMC,tomato,4.8,2026-01-03
+Haryana,Mewat,FerozpurZirkha(Nagina) APMC,tomato,2.8,2026-01-03
+Haryana,Mewat,Nuh APMC,tomato,2.2,2026-01-03
+Haryana,Palwal,Hassanpur APMC,tomato,0.1,2026-01-03
+Haryana,Panchkula,Barwala APMC,tomato,2.5,2026-01-03
+Haryana,Panipat,Madlauda APMC,tomato,0.45,2026-01-03
+Haryana,Panipat,Panipat APMC,tomato,38.3,2026-01-03
+Haryana,Panipat,Samalkha APMC,tomato,2.8,2026-01-03
+Haryana,Rewari,Rewari APMC,tomato,6.8,2026-01-03
+Haryana,Sirsa,Rania APMC,tomato,0.2,2026-01-03
+Haryana,Sirsa,Rania(Jiwan nagar) APMC,tomato,0.2,2026-01-03
+Haryana,Sirsa,Sirsa APMC,tomato,14.7,2026-01-03
+Haryana,Sonipat,Ganaur APMC,tomato,3.5,2026-01-03
+Haryana,Sonipat,Gohana APMC,tomato,6.4,2026-01-03
+Haryana,Sonipat,Sonepat APMC,tomato,12.9,2026-01-03
+Haryana,Sonipat,Sonepat(Kharkhoda) APMC,tomato,2.2,2026-01-03
+Haryana,Yamuna Nagar,Chhachrauli APMC,tomato,0.28,2026-01-03
+Haryana,Yamuna Nagar,Mustafabad APMC,tomato,0.18,2026-01-03
+Haryana,Yamuna Nagar,Sadhaura APMC,tomato,1.9,2026-01-03
+Himachal Pradesh,Kullu,PMY Kullu,tomato,1.6,2026-01-03
+Himachal Pradesh,Kullu,SMY Bhuntar,tomato,1.5,2026-01-03
+Himachal Pradesh,Mandi,SMY Takoli,tomato,0.1,2026-01-03
+Karnataka,Bangalore,Ramanagara APMC,tomato,14.4,2026-01-03
+Karnataka,Bellary,Hospet APMC,tomato,6.0,2026-01-03
+Karnataka,Hassan,Belur APMC,tomato,5.6,2026-01-03
+Karnataka,Haveri,Ranebennur APMC,tomato,0.7,2026-01-03
+Karnataka,Kolar,Bhagepalli APMC,tomato,28.2,2026-01-03
+Karnataka,Kolar,Chintamani APMC,tomato,30.0,2026-01-03
+Karnataka,Kolar,Gowribidanoor APMC,tomato,1.5,2026-01-03
+Karnataka,Kolar,Kolar APMC,tomato,407.8,2026-01-03
+Karnataka,Kolar,Mulabagilu APMC,tomato,176.2,2026-01-03
+Karnataka,Mysore,Mysore (Bandipalya) APMC,tomato,9.5,2026-01-03
+Karnataka,Shimoga,Shimoga APMC,tomato,50.0,2026-01-03
+Kerala,Alappuzha,Kayamkulam APMC,tomato,2.0,2026-01-03
+Kerala,Idukki,Kattappana APMC,tomato,4.0,2026-01-03
+Kerala,Idukki,Vandiperiyar APMC,tomato,0.04,2026-01-03
+Kerala,Kannur,Thalasserry APMC,tomato,0.2,2026-01-03
+Kerala,Kollam,Anchal APMC,tomato,0.03,2026-01-03
+Kerala,Kollam,Chathanoor APMC,tomato,0.4,2026-01-03
+Kerala,Kollam,Sasthamkotta APMC,tomato,0.4,2026-01-03
+Kerala,Kottayam,Kanjirappally APMC,tomato,0.5,2026-01-03
+Kerala,Kozhikode(Calicut),Thamarassery APMC,tomato,0.6,2026-01-03
+Kerala,Malappuram,Thirurrangadi APMC,tomato,4.0,2026-01-03
+Kerala,Palakad,Koduvayoor APMC,tomato,0.8,2026-01-03
+Kerala,Palakad,vadakarapathy APMC,tomato,4.2,2026-01-03
+Kerala,Thirssur,Kodungalloor APMC,tomato,2.0,2026-01-03
+Kerala,Thirssur,Wadakkanchery APMC,tomato,0.25,2026-01-03
+Kerala,Thiruvananthapuram,Pothencode APMC,tomato,650.0,2026-01-03
+Madhya Pradesh,Badwani,Badwani(F&V) APMC,tomato,1.21,2026-01-03
+Madhya Pradesh,Badwani,Sendhwa(F&V) APMC,tomato,0.7,2026-01-03
+Madhya Pradesh,Chhindwara,Chindwara(F&V) APMC,tomato,0.4,2026-01-03
+Madhya Pradesh,Dewas,Dewas(F&V) APMC,tomato,1.2,2026-01-03
+Madhya Pradesh,Hoshangabad,Pipariya(F&V) APMC,tomato,5.0,2026-01-03
+Madhya Pradesh,Jhabua,Petlawad(F&V) APMC,tomato,0.8,2026-01-03
+Madhya Pradesh,Khandwa,Sanawad(F&V) APMC,tomato,4.0,2026-01-03
+Madhya Pradesh,Morena,Sabalgarh(F&V) APMC,tomato,0.0,2026-01-03
+Madhya Pradesh,Rajgarh,Sarangpur(F&V) APMC,tomato,0.7,2026-01-03
+Madhya Pradesh,Sagar,Rehli(F&V) APMC,tomato,2.0,2026-01-03
+Madhya Pradesh,Sagar,Sagar(F&V) APMC,tomato,2.8,2026-01-03
+Madhya Pradesh,Shivpuri,Karera(F&V) APMC,tomato,0.9,2026-01-03
+Maharashtra,Ahmednagar,Ahmednagar APMC,tomato,23.2,2026-01-03
+Maharashtra,Ahmednagar,Rahata APMC,tomato,8.3,2026-01-03
+Maharashtra,Ahmednagar,Rahuri APMC,tomato,4.6,2026-01-03
+Maharashtra,Ahmednagar,Shrirampur APMC,tomato,3.3,2026-01-03
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market) APMC,tomato,16.8,2026-01-03
+Maharashtra,Chattrapati Sambhajinagar,Chattrapati Sambhajinagar APMC,tomato,12.0,2026-01-03
+Maharashtra,Jalgaon,Bhusaval APMC,tomato,11.3,2026-01-03
+Maharashtra,Kolhapur,Vadgaonpeth APMC,tomato,5.5,2026-01-03
+Maharashtra,Nagpur,Kalmeshwar APMC,tomato,2.8,2026-01-03
+Maharashtra,Nagpur,Kamthi APMC,tomato,5.0,2026-01-03
+Maharashtra,Nashik,Nasik APMC,tomato,106.2,2026-01-03
+Maharashtra,Nashik,Pimpalgaon APMC,tomato,20.2,2026-01-03
+Maharashtra,Pune,Khed(Chakan) APMC,tomato,31.0,2026-01-03
+Maharashtra,Pune,Pune APMC,tomato,277.2,2026-01-03
+Maharashtra,Pune,Pune(Khadiki) APMC,tomato,1.1,2026-01-03
+Maharashtra,Pune,Pune(Manjri) APMC,tomato,47.4,2026-01-03
+Maharashtra,Pune,Pune(Moshi) APMC,tomato,66.6,2026-01-03
+Maharashtra,Pune,Pune(Pimpri) APMC,tomato,3.0,2026-01-03
+Maharashtra,Raigad,Panvel APMC,tomato,50.5,2026-01-03
+Maharashtra,Satara,Karad APMC,tomato,1.8,2026-01-03
+Maharashtra,Satara,Phaltan APMC,tomato,6.5,2026-01-03
+Maharashtra,Satara,Satara APMC,tomato,10.0,2026-01-03
+Maharashtra,Satara,Vai APMC,tomato,12.0,2026-01-03
+Maharashtra,Sholapur,Akluj APMC,tomato,2.3,2026-01-03
+Maharashtra,Sholapur,Mangal Wedha APMC,tomato,3.4,2026-01-03
+Maharashtra,Thane,Kalyan APMC,tomato,0.3,2026-01-03
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",tomato,108.87,2026-01-03
+Odisha,Bargarh,Padampur APMC,tomato,2.9,2026-01-03
+Odisha,Bhadrak,Bhadrak APMC,tomato,12.0,2026-01-03
+Odisha,Boudh,Boudh APMC,tomato,0.4,2026-01-03
+Odisha,Cuttack,Rairangpur APMC,tomato,3.5,2026-01-03
+Odisha,Dhenkanal,Hindol APMC,tomato,1.5,2026-01-03
+Odisha,Dhenkanal,Kamakhyanagar APMC,tomato,0.4,2026-01-03
+Odisha,Jharsuguda,Jharsuguda APMC,tomato,2.0,2026-01-03
+Odisha,Keonjhar,Champua APMC,tomato,0.85,2026-01-03
+Odisha,Keonjhar,Saharpada APMC,tomato,0.8,2026-01-03
+Odisha,Khurda,Balugaon APMC,tomato,1.2,2026-01-03
+Odisha,Mayurbhanja,Baripada APMC,tomato,3.6,2026-01-03
+Odisha,Mayurbhanja,Karanjia APMC,tomato,0.1,2026-01-03
+Odisha,Mayurbhanja,Udala APMC,tomato,5.6,2026-01-03
+Odisha,Sonepur,Birmaharajpur APMC,tomato,2.2,2026-01-03
+Punjab,Bhatinda,Bhagta Bhai Ka APMC,tomato,0.4,2026-01-03
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,tomato,0.21,2026-01-03
+Punjab,Gurdaspur,Dinanagar APMC,tomato,1.45,2026-01-03
+Punjab,Hoshiarpur,Mukerian APMC,tomato,2.87,2026-01-03
+Punjab,Mansa,Mansa APMC,tomato,4.0,2026-01-03
+Punjab,Mohali,Banur APMC,tomato,0.3,2026-01-03
+Punjab,Mohali,Dera Bassi APMC,tomato,0.2,2026-01-03
+Punjab,Mohali,Kharar APMC,tomato,3.3,2026-01-03
+Punjab,Patiala,Dudhansadhan APMC,tomato,0.4,2026-01-03
+Punjab,Patiala,Ghanaur APMC,tomato,0.2,2026-01-03
+Punjab,Patiala,Rajpura APMC,tomato,3.0,2026-01-03
+Punjab,Sangrur,Ahmedgarh APMC,tomato,0.1,2026-01-03
+Punjab,Sangrur,Bhawanigarh APMC,tomato,2.0,2026-01-03
+Punjab,Sangrur,Dhuri APMC,tomato,0.2,2026-01-03
+Punjab,Tarntaran,Tarantaran APMC,tomato,0.15,2026-01-03
+Rajasthan,Bharatpur,Bayana APMC,tomato,1.8,2026-01-03
+Rajasthan,Hanumangarh,Bhadara APMC,tomato,1.3,2026-01-03
+Rajasthan,Hanumangarh,Goluwala APMC,tomato,0.22,2026-01-03
+Rajasthan,Hanumangarh,Rawatsar APMC,tomato,0.4,2026-01-03
+Rajasthan,Jalore,Jalore APMC,tomato,1.0,2026-01-03
+Tamil Nadu,Ariyalur,Ariyalur(Uzhavar Sandhai) APMC,tomato,0.18,2026-01-03
+Tamil Nadu,Ariyalur,Jeyankondam (Uzhavar Sandhai ) APMC,tomato,0.04,2026-01-03
+Tamil Nadu,Chengalpattu,Chengalpet(Uzhavar Sandhai ) APMC,tomato,0.73,2026-01-03
+Tamil Nadu,Chengalpattu,Guduvancheri(Uzhavar Sandhai ) APMC,tomato,0.47,2026-01-03
+Tamil Nadu,Chengalpattu,Jameenrayapettai(Uzhavar Sandhai ) APMC,tomato,0.65,2026-01-03
+Tamil Nadu,Chengalpattu,Madhuranthagam(Uzhavar Sandhai ) APMC,tomato,0.12,2026-01-03
+Tamil Nadu,Chengalpattu,Medavakkam(Uzhavar Sandhai ) APMC,tomato,0.25,2026-01-03
+Tamil Nadu,Chengalpattu,Pallavaram(Uzhavar Sandhai ) APMC,tomato,1.15,2026-01-03
+Tamil Nadu,Chengalpattu,Thirukalukundram(Uzhavar Sandhai ) APMC,tomato,0.18,2026-01-03
+Tamil Nadu,Coimbatore,Kurichi(Uzhavar Sandhai ) APMC,tomato,0.12,2026-01-03
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ) APMC,tomato,3.15,2026-01-03
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ) APMC,tomato,1.73,2026-01-03
+Tamil Nadu,Coimbatore,RSPuram(Uzhavar Sandhai ) APMC,tomato,3.71,2026-01-03
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ) APMC,tomato,9.14,2026-01-03
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ) APMC,tomato,0.84,2026-01-03
+Tamil Nadu,Coimbatore,Sundarapuram(Uzhavar Sandhai ) APMC,tomato,1.79,2026-01-03
+Tamil Nadu,Coimbatore,Udumalpet APMC,tomato,1.1,2026-01-03
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ) APMC,tomato,1.85,2026-01-03
+Tamil Nadu,Cuddalore,Chidambaram(Uzhavar Sandhai ) APMC,tomato,0.02,2026-01-03
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ) APMC,tomato,0.4,2026-01-03
+Tamil Nadu,Cuddalore,Panruti(Uzhavar Sandhai ) APMC,tomato,0.03,2026-01-03
+Tamil Nadu,Cuddalore,Vadalur(Uzhavar Sandhai ) APMC,tomato,0.16,2026-01-03
+Tamil Nadu,Cuddalore,Viruthachalam(Uzhavar Sandhai ) APMC,tomato,0.13,2026-01-03
+Tamil Nadu,Dharmapuri,AJattihalli(Uzhavar Sandhai ) APMC,tomato,3.66,2026-01-03
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ) APMC,tomato,14.1,2026-01-03
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ) APMC,tomato,1.9,2026-01-03
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),tomato,0.65,2026-01-03
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ) APMC,tomato,1.42,2026-01-03
+Tamil Nadu,Dharmapuri,Pennagaram(Uzhavar Sandhai ) APMC,tomato,5.0,2026-01-03
+Tamil Nadu,Dindigul,Chinnalapatti(Uzhavar Sandhai ) APMC,tomato,0.8,2026-01-03
+Tamil Nadu,Dindigul,Dindigul(Uzhavar Sandhai ) APMC,tomato,1.8,2026-01-03
+Tamil Nadu,Dindigul,Palani(Uzhavar Sandhai ) APMC,tomato,3.12,2026-01-03
+Tamil Nadu,Dindigul,Vedasanthur(Uzhavar Sandhai ) APMC,tomato,0.02,2026-01-03
+Tamil Nadu,Erode,Gobichettipalayam(Uzhavar Sandhai ) APMC,tomato,0.76,2026-01-03
+Tamil Nadu,Erode,Periyar Nagar(Uzhavar Sandhai ) APMC,tomato,0.47,2026-01-03
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ) APMC,tomato,0.3,2026-01-03
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ) APMC,tomato,2.47,2026-01-03
+Tamil Nadu,Erode,Sathiyamagalam(Uzhavar Sandhai ) APMC,tomato,0.96,2026-01-03
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ) APMC,tomato,0.6,2026-01-03
+Tamil Nadu,Kallakuruchi,Kallakurichi(Uzhavar Sandhai ) APMC,tomato,0.88,2026-01-03
+Tamil Nadu,Kallakuruchi,Sankarapuram(Uzhavar Sandhai ) APMC,tomato,0.16,2026-01-03
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ) APMC,tomato,0.36,2026-01-03
+Tamil Nadu,Kancheepuram,Padappai(Uzhavar Sandhai ) APMC,tomato,0.85,2026-01-03
+Tamil Nadu,Kancheepuram,Sunguvarchatram(Uzhavar Sandhai ) APMC,tomato,0.5,2026-01-03
+Tamil Nadu,Karur,Gandhigramam(Uzhavar Sandhai),tomato,0.36,2026-01-03
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ) APMC,tomato,2.17,2026-01-03
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ) APMC,tomato,2.02,2026-01-03
+Tamil Nadu,Karur,Pallapatti (Uzhavar Sandhai ) APMC,tomato,1.2,2026-01-03
+Tamil Nadu,Karur,Velayuthampalayam(Uzhavar Sandhai ) APMC,tomato,0.26,2026-01-03
+Tamil Nadu,Karur,Vengamedu(Uzhavar Sandhai ) APMC,tomato,0.26,2026-01-03
+Tamil Nadu,Krishnagiri,Avallapalli(Uzhavar Sandhai ) APMC,tomato,1.2,2026-01-03
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ) APMC,tomato,2.26,2026-01-03
+Tamil Nadu,Krishnagiri,Hosur(Uzhavar Sandhai ) APMC,tomato,7.0,2026-01-03
+Tamil Nadu,Krishnagiri,Kaveripattinam(Uzhavar Sandhai ) APMC,tomato,0.25,2026-01-03
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ) APMC,tomato,4.25,2026-01-03
+Tamil Nadu,Madurai,Anaiyur(Uzhavar Sandhai ) APMC,tomato,0.89,2026-01-03
+Tamil Nadu,Madurai,Anna nagar(Uzhavar Sandhai ) APMC,tomato,1.3,2026-01-03
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ) APMC,tomato,2.5,2026-01-03
+Tamil Nadu,Madurai,Melur(Uzhavar Sandhai ) APMC,tomato,0.63,2026-01-03
+Tamil Nadu,Madurai,Palanganatham(Uzhavar Sandhai ) APMC,tomato,1.4,2026-01-03
+Tamil Nadu,Madurai,Thirumangalam(Uzhavar Sandhai ) APMC,tomato,1.15,2026-01-03
+Tamil Nadu,Madurai,Usilampatti(Uzhavar Sandhai ) APMC,tomato,0.73,2026-01-03
+Tamil Nadu,Nagapattinam,Mayiladuthurai(Uzhavar Sandhai ) APMC,tomato,0.18,2026-01-03
+Tamil Nadu,Nagapattinam,Nagapattinam(Uzhavar Sandhai ) APMC,tomato,0.38,2026-01-03
+Tamil Nadu,Nagapattinam,Sirkali(Uzhavar Sandhai ) APMC,tomato,0.29,2026-01-03
+Tamil Nadu,Nagapattinam,Vedaranyam(Uzhavar Sandhai),tomato,0.09,2026-01-03
+Tamil Nadu,Nagercoil (Kannyiakumari),Myladi(Uzhavar Sandhai ) APMC,tomato,0.05,2026-01-03
+Tamil Nadu,Nagercoil (Kannyiakumari),Vadaseri APMC,tomato,1.29,2026-01-03
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ) APMC,tomato,3.86,2026-01-03
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ) APMC,tomato,0.35,2026-01-03
+Tamil Nadu,Namakkal,Tiruchengode APMC,tomato,0.18,2026-01-03
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ) APMC,tomato,2.82,2026-01-03
+Tamil Nadu,Pudukkottai,Alangudi(Uzhavar Sandhai ) APMC,tomato,0.48,2026-01-03
+Tamil Nadu,Pudukkottai,Aranthangi(Uzhavar Sandhai ) APMC,tomato,0.67,2026-01-03
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ) APMC,tomato,0.64,2026-01-03
+Tamil Nadu,Pudukkottai,Karambakkudi(Uzhavar Sandhai ) APMC,tomato,0.6,2026-01-03
+Tamil Nadu,Pudukkottai,Ponnamaravathi(Uzhavar Sandhai),tomato,0.25,2026-01-03
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ) APMC,tomato,1.45,2026-01-03
+Tamil Nadu,Pudukkottai,Viralimalai(Uzhavar Sandhai ) APMC,tomato,0.32,2026-01-03
+Tamil Nadu,Ramanathapuram,Kamuthi(Uzhavar Sandhai ) APMC,tomato,0.02,2026-01-03
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ) APMC,tomato,1.67,2026-01-03
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ) APMC,tomato,0.28,2026-01-03
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ) APMC,tomato,0.77,2026-01-03
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ) APMC,tomato,0.7,2026-01-03
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ) APMC,tomato,2.01,2026-01-03
+Tamil Nadu,Salem,Athur(Uzhavar Sandhai ) APMC,tomato,3.84,2026-01-03
+Tamil Nadu,Salem,Attayampatti(Uzhavar Sandhai ) APMC,tomato,1.03,2026-01-03
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ) APMC,tomato,1.9,2026-01-03
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ) APMC,tomato,1.5,2026-01-03
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ) APMC,tomato,2.03,2026-01-03
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ) APMC,tomato,3.17,2026-01-03
+Tamil Nadu,Salem,Mecheri(Uzhavar Sandhai),tomato,1.46,2026-01-03
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ) APMC,tomato,3.3,2026-01-03
+Tamil Nadu,Salem,Sooramangalam(Uzhavar Sandhai ) APMC,tomato,1.26,2026-01-03
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ) APMC,tomato,1.2,2026-01-03
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ) APMC,tomato,4.25,2026-01-03
+Tamil Nadu,Salem,Vazhapadi(Uzhavar Sandhai),tomato,0.7,2026-01-03
+Tamil Nadu,Sivaganga,Devakottai (Uzhavar Sandhai ) APMC,tomato,0.22,2026-01-03
+Tamil Nadu,Sivaganga,Karaikudi(Uzhavar Sandhai ) APMC,tomato,0.48,2026-01-03
+Tamil Nadu,Sivaganga,Singampunari(Uzhavar Sandhai ) APMC,tomato,0.54,2026-01-03
+Tamil Nadu,Sivaganga,Sivagangai (Uzhavar Sandhai ) APMC,tomato,1.18,2026-01-03
+Tamil Nadu,Sivaganga,Tirupatthur(Uzhavar Sandhai ) APMC,tomato,0.24,2026-01-03
+Tamil Nadu,Tenkasi,Sankarankoil(Uzhavar Sandhai ) APMC,tomato,0.95,2026-01-03
+Tamil Nadu,Tenkasi,Tenkasi(Uzhavar Sandhai ) APMC,tomato,0.23,2026-01-03
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ) APMC,tomato,1.23,2026-01-03
+Tamil Nadu,Thanjavur,Papanasam(Uzhavar Sandhai ) APMC,tomato,0.2,2026-01-03
+Tamil Nadu,Thanjavur,Pattukottai(Uzhavar Sandhai ) APMC,tomato,0.9,2026-01-03
+Tamil Nadu,Thanjavur,Peravurani(Uzhavar Sandhai),tomato,0.15,2026-01-03
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ) APMC,tomato,1.48,2026-01-03
+Tamil Nadu,Thanjavur,Tirukattupalli(Uzhavar Sandhai ) APMC,tomato,0.24,2026-01-03
+Tamil Nadu,The Nilgiris,Coonoor(Uzhavar Sandhai ) APMC,tomato,1.76,2026-01-03
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ) APMC,tomato,0.13,2026-01-03
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ) APMC,tomato,2.3,2026-01-03
+Tamil Nadu,Theni,Andipatti(Uzhavar Sandhai ) APMC,tomato,0.82,2026-01-03
+Tamil Nadu,Theni,Bodinayakanur(Uzhavar Sandhai ) APMC,tomato,0.35,2026-01-03
+Tamil Nadu,Theni,Chinnamanur(Uzhavar Sandhai ) APMC,tomato,1.81,2026-01-03
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ) APMC,tomato,0.4,2026-01-03
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ) APMC,tomato,7.0,2026-01-03
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ) APMC,tomato,0.76,2026-01-03
+Tamil Nadu,Theni,Theni(Uzhavar Sandhai ) APMC,tomato,5.03,2026-01-03
+Tamil Nadu,Thiruchirappalli,KKNagar(Uzhavar Sandhai ) APMC,tomato,3.2,2026-01-03
+Tamil Nadu,Thiruchirappalli,Lalgudi(Uzhavar Sandhai ) APMC,tomato,0.5,2026-01-03
+Tamil Nadu,Thiruchirappalli,Manachanallur(Uzhavar Sandhai ) APMC,tomato,0.35,2026-01-03
+Tamil Nadu,Thiruchirappalli,Manapparai(Uzhavar Sandhai ) APMC,tomato,0.68,2026-01-03
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ) APMC,tomato,1.96,2026-01-03
+Tamil Nadu,Thiruchirappalli,Thiruverumbur(Uzhavar Sandhai ) APMC,tomato,0.95,2026-01-03
+Tamil Nadu,Thiruchirappalli,Thuraiyur APMC,tomato,0.6,2026-01-03
+Tamil Nadu,Thirunelveli,Ambasamudram(Uzhavar Sandhai ) APMC,tomato,0.02,2026-01-03
+Tamil Nadu,Thirunelveli,Kandiyaperi(Uzhavar Sandhai ) APMC,tomato,0.03,2026-01-03
+Tamil Nadu,Thirunelveli,Melapalayam(Uzhavar Sandhai ) APMC,tomato,0.58,2026-01-03
+Tamil Nadu,Thirunelveli,NGO Colony(Uzhavar Sandhai ) APMC,tomato,0.43,2026-01-03
+Tamil Nadu,Thirunelveli,Palayamkottai(Uzhavar Sandhai ) APMC,tomato,3.2,2026-01-03
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ) APMC,tomato,6.2,2026-01-03
+Tamil Nadu,Thirupathur,Vaniyampadi(Uzhavar Sandhai ) APMC,tomato,10.6,2026-01-03
+Tamil Nadu,Thirupur,Dharapuram(Uzhavar Sandhai ) APMC,tomato,4.6,2026-01-03
+Tamil Nadu,Thirupur,Kangayam(Uzhavar Sandhai ) APMC,tomato,1.62,2026-01-03
+Tamil Nadu,Thirupur,Palladam(Uzhavar Sandhai ) APMC,tomato,2.3,2026-01-03
+Tamil Nadu,Thirupur,Tiruppur (North) (Uzhavar Sandhai ) APMC,tomato,1.77,2026-01-03
+Tamil Nadu,Thirupur,Tiruppur (South) (Uzhavar Sandhai ) APMC,tomato,22.88,2026-01-03
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ) APMC,tomato,1.1,2026-01-03
+Tamil Nadu,Thiruvannamalai,Chengam(Uzhavar Sandhai ) APMC,tomato,0.52,2026-01-03
+Tamil Nadu,Thiruvannamalai,Cheyyar(Uzhavar Sandhai ) APMC,tomato,0.7,2026-01-03
+Tamil Nadu,Thiruvannamalai,Keelpennathur(Uzhavar Sandhai ) APMC,tomato,0.3,2026-01-03
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ) APMC,tomato,0.46,2026-01-03
+Tamil Nadu,Thiruvannamalai,Tamarainagar(Uzhavar Sandhai ) APMC,tomato,0.86,2026-01-03
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai(Uzhavar Sandhai ) APMC,tomato,1.23,2026-01-03
+Tamil Nadu,Thiruvannamalai,Vandavasi(Uzhavar Sandhai ) APMC,tomato,0.02,2026-01-03
+Tamil Nadu,Thiruvarur,Mannargudi I(Uzhavar Sandhai ) APMC,tomato,1.4,2026-01-03
+Tamil Nadu,Thiruvarur,Mannargudi II(Uzhavar Sandhai ) APMC,tomato,0.55,2026-01-03
+Tamil Nadu,Thiruvarur,Muthupettai(Uzhavar Sandhai ) APMC,tomato,0.03,2026-01-03
+Tamil Nadu,Thiruvarur,Needamangalam(Uzhavar Sandhai ) APMC,tomato,0.08,2026-01-03
+Tamil Nadu,Thiruvarur,Tiruvarur(Uzhavar Sandhai ) APMC,tomato,0.23,2026-01-03
+Tamil Nadu,Thiruvarur,Valangaiman APMC,tomato,0.08,2026-01-03
+Tamil Nadu,Thiruvellore,Ambattur(Uzhavar Sandhai ) APMC,tomato,0.1,2026-01-03
+Tamil Nadu,Thiruvellore,Naravarikuppam(Uzhavar Sandhai ) APMC,tomato,0.28,2026-01-03
+Tamil Nadu,Thiruvellore,Paruthipattu(Uzhavar Sandhai ) APMC,tomato,0.22,2026-01-03
+Tamil Nadu,Thiruvellore,Perambakkam(Uzhavar Sandhai ) APMC,tomato,0.08,2026-01-03
+Tamil Nadu,Thiruvellore,Tiruthani(Uzhavar Sandhai ) APMC,tomato,0.3,2026-01-03
+Tamil Nadu,Thiruvellore,Tiruvallur(Uzhavar Sandhai ) APMC,tomato,0.21,2026-01-03
+Tamil Nadu,Tuticorin,Kovilpatti(Uzhavar Sandhai ) APMC,tomato,0.35,2026-01-03
+Tamil Nadu,Tuticorin,Tuticorin(Uzhavar Sandhai ) APMC,tomato,1.2,2026-01-03
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ) APMC,tomato,1.2,2026-01-03
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ) APMC,tomato,1.25,2026-01-03
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ) APMC,tomato,1.48,2026-01-03
+Tamil Nadu,Vellore,Pallikonda(Uzhavar Sandhai),tomato,0.16,2026-01-03
+Tamil Nadu,Vellore,Perampet(Uzhavar Sandhai),tomato,0.18,2026-01-03
+Tamil Nadu,Vellore,Thirupathur APMC,tomato,6.15,2026-01-03
+Tamil Nadu,Vellore,Vellore APMC,tomato,3.8,2026-01-03
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ) APMC,tomato,0.2,2026-01-03
+Tamil Nadu,Villupuram,Tindivanam APMC,tomato,0.9,2026-01-03
+Tamil Nadu,Villupuram,Ulundurpettai APMC,tomato,0.43,2026-01-03
+Tamil Nadu,Villupuram,Villupuram(Uzhavar Sandhai ) APMC,tomato,0.35,2026-01-03
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ) APMC,tomato,0.66,2026-01-03
+Tamil Nadu,Virudhunagar,Kariyapatti(Uzhavar Sandhai ) APMC,tomato,0.21,2026-01-03
+Tamil Nadu,Virudhunagar,Rajapalayam(Uzhavar Sandhai ) APMC,tomato,0.85,2026-01-03
+Tamil Nadu,Virudhunagar,Sathur(Uzhavar Sandhai ) APMC,tomato,0.04,2026-01-03
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ) APMC,tomato,0.1,2026-01-03
+Tamil Nadu,Virudhunagar,Srivilliputhur(Uzhavar Sandhai ) APMC,tomato,0.3,2026-01-03
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ) APMC,tomato,0.14,2026-01-03
+Tamil Nadu,Virudhunagar,Virudhunagar(Uzhavar Sandhai ) APMC,tomato,0.06,2026-01-03
+Telangana,Hyderabad,Bowenpally APMC,tomato,34.0,2026-01-03
+Telangana,Hyderabad,Gudimalkapur APMC,tomato,269.1,2026-01-03
+Telangana,Hyderabad,Hyderabad (F&V) APMC,tomato,29.0,2026-01-03
+Telangana,Ranga Reddy,Chevella APMC,tomato,8.5,2026-01-03
+Telangana,Ranga Reddy,"Kukatpally,RBZ APMC",tomato,14.8,2026-01-03
+Telangana,Warangal,Warangal APMC,tomato,2.0,2026-01-03
+Tripura,Dhalai,Gandacharra APMC,tomato,0.2,2026-01-03
+Tripura,Dhalai,Halahali,tomato,3.0,2026-01-03
+Tripura,Dhalai,Masli,tomato,0.1,2026-01-03
+Tripura,Gomati,Garjee APMC,tomato,1.0,2026-01-03
+Tripura,Gomati,Nutanbazar APMC,tomato,0.5,2026-01-03
+Tripura,Khowai,Kalyanpur APMC,tomato,3.0,2026-01-03
+Tripura,North Tripura,Kanchanpur,tomato,0.6,2026-01-03
+Tripura,North Tripura,Panisagar APMC,tomato,2.0,2026-01-03
+Tripura,Sepahijala,Bishalgarh APMC,tomato,0.6,2026-01-03
+Tripura,Sepahijala,Boxonagar,tomato,0.04,2026-01-03
+Tripura,Sepahijala,Melaghar APMC,tomato,1.0,2026-01-03
+Tripura,Sepahijala,Sonamura APMC,tomato,0.02,2026-01-03
+Tripura,South Tripura,Manubazar,tomato,0.5,2026-01-03
+Tripura,South Tripura,Santir Bazar APMC,tomato,5.5,2026-01-03
+Uttar Pradesh,Agra,Samsabad APMC,tomato,1.0,2026-01-03
+Uttar Pradesh,Aligarh,Charra APMC,tomato,0.4,2026-01-03
+Uttar Pradesh,Amroha,Hasanpur APMC,tomato,5.0,2026-01-03
+Uttar Pradesh,Baghpat,Khekda APMC,tomato,0.2,2026-01-03
+Uttar Pradesh,Balrampur,Tulsipur APMC,tomato,1.6,2026-01-03
+Uttar Pradesh,Bulandshahar,Anoop Shahar APMC,tomato,0.6,2026-01-03
+Uttar Pradesh,Bulandshahar,Siyana APMC,tomato,1.2,2026-01-03
+Uttar Pradesh,Chitrakut,Karvi APMC,tomato,1.0,2026-01-03
+Uttar Pradesh,Etah,Awagarh APMC,tomato,1.5,2026-01-03
+Uttar Pradesh,Etawah,Jasvantnagar APMC,tomato,6.7,2026-01-03
+Uttar Pradesh,Fatehpur,Fatehpur APMC,tomato,3.3,2026-01-03
+Uttar Pradesh,Hathras,Shadabad APMC,tomato,10.0,2026-01-03
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,tomato,0.5,2026-01-03
+Uttar Pradesh,Kanpur,Varipaal APMC,tomato,2.0,2026-01-03
+Uttar Pradesh,Kanpur Dehat,Pukharayan APMC,tomato,3.5,2026-01-03
+Uttar Pradesh,Mirzapur,Ahirora APMC,tomato,6.5,2026-01-03
+Uttar Pradesh,Saharanpur,Chutmalpur APMC,tomato,2.7,2026-01-03
+Uttar Pradesh,Saharanpur,Gangoh APMC,tomato,0.3,2026-01-03
+Uttar Pradesh,Sambhal,Sambhal APMC,tomato,2.8,2026-01-03
+Uttar Pradesh,Shamli,Kairana APMC,tomato,0.6,2026-01-03
+Uttarakhand,Dehradoon,Rishikesh APMC,tomato,4.5,2026-01-03
+Uttarakhand,Dehradoon,Vikasnagar APMC,tomato,4.9,2026-01-03
+Uttarakhand,Haridwar,Bhagwanpur(Naveen Mandi Sthal) APMC,tomato,0.8,2026-01-03
+Uttarakhand,Haridwar,Roorkee APMC,tomato,1.1,2026-01-03
+Uttarakhand,Nanital,Haldwani APMC,tomato,18.5,2026-01-03
+Uttarakhand,Nanital,Ramnagar APMC,tomato,0.6,2026-01-03
+Uttarakhand,Udhamsinghnagar,Jaspur(UC) APMC,tomato,0.1,2026-01-03
+Uttarakhand,Udhamsinghnagar,Kashipur APMC,tomato,2.8,2026-01-03
+Uttarakhand,Udhamsinghnagar,Khateema APMC,tomato,1.0,2026-01-03
+Uttarakhand,Udhamsinghnagar,Kicchha APMC,tomato,0.5,2026-01-03
+Uttarakhand,Udhamsinghnagar,Rudrapur APMC,tomato,9.0,2026-01-03
+West Bengal,Bankura,Khatra APMC,tomato,0.23,2026-01-03
+West Bengal,Birbhum,Birbhum APMC,tomato,26.0,2026-01-03
+West Bengal,Birbhum,Bolpur APMC,tomato,23.0,2026-01-03
+West Bengal,Birbhum,Sainthia APMC,tomato,22.0,2026-01-03
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur) APMC,tomato,0.5,2026-01-03
+West Bengal,Darjeeling,Darjeeling APMC,tomato,0.4,2026-01-03
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,tomato,0.3,2026-01-03
+West Bengal,Darjeeling,Siliguri APMC,tomato,14.0,2026-01-03
+West Bengal,Hooghly,Champadanga APMC,tomato,5.4,2026-01-03
+West Bengal,Hooghly,Kalipur APMC,tomato,6.4,2026-01-03
+West Bengal,Hooghly,Pandua APMC,tomato,2.4,2026-01-03
+West Bengal,Hooghly,Sheoraphuly APMC,tomato,30.0,2026-01-03
+West Bengal,Howrah,Ramkrishanpur(Howrah) APMC,tomato,0.36,2026-01-03
+West Bengal,Howrah,Uluberia APMC,tomato,0.12,2026-01-03
+West Bengal,Kolkata,Sealdah Koley Market APMC,tomato,12.9,2026-01-03
+West Bengal,Medinipur(W),Garbeta(Medinipur) APMC,tomato,0.22,2026-01-03
+West Bengal,North 24 Parganas,Barasat APMC,tomato,9.0,2026-01-03
+West Bengal,North 24 Parganas,Habra APMC,tomato,30.0,2026-01-03
+West Bengal,Paschim Bardhaman,Asansol APMC,tomato,4.5,2026-01-03
+West Bengal,Paschim Bardhaman,Durgapur APMC,tomato,4.5,2026-01-03
+West Bengal,Purba Bardhaman,Burdwan APMC,tomato,4.5,2026-01-03
+West Bengal,Purba Bardhaman,Kalna APMC,tomato,1.5,2026-01-03
+West Bengal,Purba Bardhaman,Memari APMC,tomato,4.0,2026-01-03
+West Bengal,Puruliya,Balarampur APMC,tomato,3.8,2026-01-03
+West Bengal,Sounth 24 Parganas,Baruipur(Canning) APMC,tomato,0.36,2026-01-03
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,tomato,0.32,2026-01-03
+Gujarat,Sabarkantha,APMCKHEDBRAHMA,wheat,1.0,2026-01-03
+Karnataka,Bellary,Hospet APMC,wheat,22.0,2026-01-03
+Karnataka,Bijapur,Bijapur APMC,wheat,7.4,2026-01-03
+Karnataka,Haveri,Haveri APMC,wheat,18.7,2026-01-03
+Karnataka,Shimoga,Shimoga APMC,wheat,16.0,2026-01-03
+Madhya Pradesh,Alirajpur,Jobat APMC,wheat,52.3,2026-01-03
+Madhya Pradesh,Ashoknagar,Ashoknagar APMC,wheat,30.94,2026-01-03
+Madhya Pradesh,Badwani,Anjad APMC,wheat,1.59,2026-01-03
+Madhya Pradesh,Badwani,Badwani APMC,wheat,12.04,2026-01-03
+Madhya Pradesh,Badwani,Sendhwa APMC,wheat,11.81,2026-01-03
+Madhya Pradesh,Bhind,Alampur APMC,wheat,7.2,2026-01-03
+Madhya Pradesh,Bhind,Lahar APMC,wheat,101.0,2026-01-03
+Madhya Pradesh,Bhind,Mehgaon APMC,wheat,20.0,2026-01-03
+Madhya Pradesh,Chhatarpur,Badamalhera APMC,wheat,39.7,2026-01-03
+Madhya Pradesh,Chhatarpur,Bijawar APMC,wheat,17.1,2026-01-03
+Madhya Pradesh,Chhatarpur,Chhatarpur APMC,wheat,7.0,2026-01-03
+Madhya Pradesh,Damoh,Damoh APMC,wheat,278.4,2026-01-03
+Madhya Pradesh,Damoh,Javera APMC,wheat,9.01,2026-01-03
+Madhya Pradesh,Datia,Datia APMC,wheat,5.22,2026-01-03
+Madhya Pradesh,Dewas,Dewas APMC,wheat,77.23,2026-01-03
+Madhya Pradesh,Dewas,Haatpipliya APMC,wheat,13.38,2026-01-03
+Madhya Pradesh,Dewas,Loharda APMC,wheat,35.69,2026-01-03
+Madhya Pradesh,Dewas,Sonkatch APMC,wheat,58.83,2026-01-03
+Madhya Pradesh,Dhar,Badnawar APMC,wheat,133.92,2026-01-03
+Madhya Pradesh,Dhar,Dhar APMC,wheat,18.3,2026-01-03
+Madhya Pradesh,Dhar,Gandhwani APMC,wheat,24.54,2026-01-03
+Madhya Pradesh,Dhar,Kukshi APMC,wheat,141.5,2026-01-03
+Madhya Pradesh,Dhar,Manawar APMC,wheat,39.82,2026-01-03
+Madhya Pradesh,Dhar,Rajgarh APMC,wheat,110.13,2026-01-03
+Madhya Pradesh,Guna,Raghogarh APMC,wheat,40.92,2026-01-03
+Madhya Pradesh,Gwalior,Lashkar APMC,wheat,23.28,2026-01-03
+Madhya Pradesh,Harda,Sirali APMC,wheat,14.0,2026-01-03
+Madhya Pradesh,Indore,Gautampura APMC,wheat,98.75,2026-01-03
+Madhya Pradesh,Indore,Sanwer APMC,wheat,44.91,2026-01-03
+Madhya Pradesh,Jhabua,Petlawad APMC,wheat,116.02,2026-01-03
+Madhya Pradesh,Jhabua,Thandla APMC,wheat,8.18,2026-01-03
+Madhya Pradesh,Khandwa,Khandwa APMC,wheat,197.33,2026-01-03
+Madhya Pradesh,Khandwa,Mundi APMC,wheat,210.44,2026-01-03
+Madhya Pradesh,Khandwa,Pandhana APMC,wheat,9.69,2026-01-03
+Madhya Pradesh,Khargone,Badwaha APMC,wheat,16.84,2026-01-03
+Madhya Pradesh,Khargone,Bhikangaon APMC,wheat,626.66,2026-01-03
+Madhya Pradesh,Khargone,Karhi APMC,wheat,32.15,2026-01-03
+Madhya Pradesh,Khargone,Kasrawad APMC,wheat,9.44,2026-01-03
+Madhya Pradesh,Khargone,Khargone APMC,wheat,156.22,2026-01-03
+Madhya Pradesh,Khargone,Segaon APMC,wheat,61.26,2026-01-03
+Madhya Pradesh,Mandsaur,Garoth APMC,wheat,44.5,2026-01-03
+Madhya Pradesh,Mandsaur,Suvasra APMC,wheat,50.12,2026-01-03
+Madhya Pradesh,Panna,Panna APMC,wheat,8.69,2026-01-03
+Madhya Pradesh,Rajgarh,Biaora APMC,wheat,19.31,2026-01-03
+Madhya Pradesh,Rajgarh,Chhapiheda APMC,wheat,13.78,2026-01-03
+Madhya Pradesh,Rajgarh,Jeerapur APMC,wheat,11.22,2026-01-03
+Madhya Pradesh,Rajgarh,Khilchipur APMC,wheat,35.05,2026-01-03
+Madhya Pradesh,Rajgarh,Pachaur APMC,wheat,30.82,2026-01-03
+Madhya Pradesh,Rajgarh,Sarangpur APMC,wheat,14.25,2026-01-03
+Madhya Pradesh,Ratlam,Ratlam APMC,wheat,11.53,2026-01-03
+Madhya Pradesh,Ratlam,Taal APMC,wheat,45.08,2026-01-03
+Madhya Pradesh,Rewa,Chaakghat APMC,wheat,16.7,2026-01-03
+Madhya Pradesh,Sagar,Deori APMC,wheat,24.6,2026-01-03
+Madhya Pradesh,Sagar,Rahatgarh APMC,wheat,16.16,2026-01-03
+Madhya Pradesh,Sagar,Sagar APMC,wheat,34.65,2026-01-03
+Madhya Pradesh,Sagar,Shahagarh APMC,wheat,52.7,2026-01-03
+Madhya Pradesh,Satna,Amarpatan APMC,wheat,22.7,2026-01-03
+Madhya Pradesh,Satna,Mehar APMC,wheat,17.92,2026-01-03
+Madhya Pradesh,Satna,Nagod APMC,wheat,16.7,2026-01-03
+Madhya Pradesh,Sehore,Sehore APMC,wheat,9.36,2026-01-03
+Madhya Pradesh,Seoni,Lakhnadon APMC,wheat,17.1,2026-01-03
+Madhya Pradesh,Shajapur,Agar APMC,wheat,61.84,2026-01-03
+Madhya Pradesh,Shajapur,Badod APMC,wheat,28.3,2026-01-03
+Madhya Pradesh,Shajapur,Kalapipal APMC,wheat,25.64,2026-01-03
+Madhya Pradesh,Shajapur,Soyatkalan APMC,wheat,1.56,2026-01-03
+Madhya Pradesh,Sheopur,Vijaypur APMC,wheat,5.2,2026-01-03
+Madhya Pradesh,Sidhi,Sidhi APMC,wheat,19.0,2026-01-03
+Madhya Pradesh,Tikamgarh,Jatara APMC,wheat,7.06,2026-01-03
+Madhya Pradesh,Tikamgarh,Khargapur APMC,wheat,106.49,2026-01-03
+Madhya Pradesh,Tikamgarh,Niwadi APMC,wheat,216.58,2026-01-03
+Madhya Pradesh,Ujjain,Badnagar APMC,wheat,1.55,2026-01-03
+Madhya Pradesh,Ujjain,Khachrod APMC,wheat,17.1,2026-01-03
+Madhya Pradesh,Ujjain,Tarana APMC,wheat,48.98,2026-01-03
+Madhya Pradesh,Ujjain,Ujjain APMC,wheat,37.64,2026-01-03
+Madhya Pradesh,Umariya,Umariya APMC,wheat,10.17,2026-01-03
+Madhya Pradesh,Vidisha,Shamshabad APMC,wheat,15.0,2026-01-03
+Maharashtra,Ahmednagar,Karjat(Rashin) APMC,wheat,1.7,2026-01-03
+Maharashtra,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society  APMC,wheat,0.38,2026-01-03
+Maharashtra,Ahmednagar,Rahuri APMC,wheat,0.3,2026-01-03
+Maharashtra,Buldhana,Buldhana(Dhad) APMC,wheat,7.0,2026-01-03
+Maharashtra,Chattrapati Sambhajinagar,Kannad APMC,wheat,5.6,2026-01-03
+Maharashtra,Chattrapati Sambhajinagar,Paithan APMC,wheat,2.8,2026-01-03
+Maharashtra,Chattrapati Sambhajinagar,Sillod APMC,wheat,12.2,2026-01-03
+Maharashtra,Nagpur,Katol APMC,wheat,2.3,2026-01-03
+Maharashtra,Thane,Kalyan APMC,wheat,0.3,2026-01-03
+Maharashtra,Thane,Ulhasnagar APMC,wheat,36.0,2026-01-03
+NCT of Delhi,Delhi,Najafgarh APMC,wheat,20.3,2026-01-03
+Rajasthan,Baran,Atru APMC,wheat,7.7,2026-01-03
+Rajasthan,Deeg,Kama APMC,wheat,1.0,2026-01-03
+Rajasthan,Tonk,Malpura APMC,wheat,51.0,2026-01-03
+Uttar Pradesh,Agra,Khairagarh APMC,wheat,12.0,2026-01-03
+Uttar Pradesh,Aligarh,Charra APMC,wheat,12.5,2026-01-03
+Uttar Pradesh,Balrampur,Panchpedwa APMC,wheat,2.6,2026-01-03
+Uttar Pradesh,Balrampur,Tulsipur APMC,wheat,15.0,2026-01-03
+Uttar Pradesh,Bulandshahar,Siyana APMC,wheat,2.0,2026-01-03
+Uttar Pradesh,Fatehpur,Fatehpur APMC,wheat,190.0,2026-01-03
+Uttar Pradesh,Hathras,Sikandraraau APMC,wheat,15.0,2026-01-03
+Uttar Pradesh,Jalaun (Orai),Ait APMC,wheat,5.0,2026-01-03
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,wheat,61.9,2026-01-03
+Uttar Pradesh,Jalaun (Orai),Konch APMC,wheat,33.2,2026-01-03
+Uttar Pradesh,Jalaun (Orai),Madhogarh APMC,wheat,30.0,2026-01-03
+Uttar Pradesh,Jhansi,Mauranipur APMC,wheat,10.0,2026-01-03
+Uttar Pradesh,Kanpur Dehat,Pukharayan APMC,wheat,78.0,2026-01-03
+Uttar Pradesh,Lucknow,Banthara APMC,wheat,125.8,2026-01-03
+Uttar Pradesh,Raebarelli,Lalganj APMC,wheat,32.0,2026-01-03
+Uttarakhand,Haridwar,Lakshar APMC,wheat,17.7,2026-01-03
+West Bengal,Bankura,Bishnupur(Bankura) APMC,wheat,0.18,2026-01-03
+West Bengal,Birbhum,Birbhum APMC,wheat,13.0,2026-01-03
+West Bengal,Birbhum,Bolpur APMC,wheat,12.0,2026-01-03
+West Bengal,Birbhum,Sainthia APMC,wheat,14.0,2026-01-03
+West Bengal,Murshidabad,Beldanga APMC,wheat,2.0,2026-01-03
+West Bengal,Murshidabad,Jiaganj APMC,wheat,8.0,2026-01-03
+West Bengal,Murshidabad,Kandi APMC,wheat,2.0,2026-01-03
+West Bengal,Nadia,Karimpur APMC,wheat,4.5,2026-01-03
+West Bengal,Paschim Bardhaman,Asansol APMC,wheat,4.3,2026-01-03
+West Bengal,Paschim Bardhaman,Durgapur APMC,wheat,4.0,2026-01-03
