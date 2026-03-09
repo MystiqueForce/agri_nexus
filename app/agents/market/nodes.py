@@ -185,9 +185,16 @@ Message: "{english_query}"
         address = memory.get("location", "")
 
     if not address:
+        msg = "Please provide your farm location or address so I can find nearby mandis and give market recommendations."
+        lang = state.get("original_language", "en")
+        if lang != "en":
+            try:
+                msg = translate_service.translate_from_english(msg, lang)
+            except Exception:
+                pass
         return {
             "needs_location": True,
-            "follow_up_question": "Please provide your farm location or address so I can find nearby mandis and give market recommendations.",
+            "follow_up_question": msg,
             "coordinates": (0, 0),
         }
 
@@ -201,9 +208,16 @@ Message: "{english_query}"
             lat, lon = geo_service.get_coordinates(address + ", India")
             return {"coordinates": (lat, lon), "needs_location": False}
         except Exception:
+            msg = f"Could not locate '{address}'. Please provide a more specific address (e.g., 'Bangalore, Karnataka')."
+            lang = state.get("original_language", "en")
+            if lang != "en":
+                try:
+                    msg = translate_service.translate_from_english(msg, lang)
+                except Exception:
+                    pass
             return {
                 "needs_location": True,
-                "follow_up_question": f"Could not locate '{address}'. Please provide a more specific address (e.g., 'Bangalore, Karnataka').",
+                "follow_up_question": msg,
                 "coordinates": (0, 0),
             }
 

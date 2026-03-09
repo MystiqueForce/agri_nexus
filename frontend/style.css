@@ -197,7 +197,21 @@ body {
     transition: border-color 0.2s var(--ease);
 }
 
-.profile-field input:focus {
+.profile-field select {
+    width: 100%;
+    padding: 8px 12px;
+    background: var(--bg-input);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    color: var(--text-primary);
+    font-size: 13px;
+    font-family: inherit;
+    transition: border-color 0.2s var(--ease);
+    cursor: pointer;
+}
+
+.profile-field input:focus,
+.profile-field select:focus {
     outline: none;
     border-color: var(--accent-primary);
     box-shadow: 0 0 0 2px var(--accent-glow);
@@ -634,6 +648,24 @@ body {
 
 .upload-btn:hover {
     background: var(--bg-card-hover);
+}
+
+/* Microphone button */
+.mic-btn {
+    border: none;
+    background: transparent;
+    color: var(--text-secondary);
+}
+
+.mic-btn.recording {
+    color: var(--danger);
+    background: rgba(239, 68, 68, 0.15);
+    animation: pulse-mic 1s infinite;
+}
+
+@keyframes pulse-mic {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.4); }
+    50% { box-shadow: 0 0 0 8px rgba(239, 68, 68, 0); }
 }
 
 #query-input {

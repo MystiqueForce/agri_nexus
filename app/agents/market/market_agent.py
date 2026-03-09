@@ -95,3 +95,70 @@ async def run_market_agent(
 
     result = market_graph.invoke(initial_state)
     return result
+
+
+async def run_market_followup(
+    query: str,
+    previous_response: str,
+    farm_id: str = "anonymous",
+    original_language: str = "en",
+) -> dict:
+    """
+    Handle continuation questions after a market recommendation.
+    Uses the previous response as context to answer follow-up questions
+    (logistics, transport, storage, etc.) without re-running the ML pipeline.
+    """
+    from app.services import bedrock_service, translate_service
+
+    # Translate the follow-up query to English if needed
+    lang = original_language
+    english_query = query
+    try:
+        if not lang or lang == "auto":
+            lang = translate_service.detect_language(query)
+        if lang != "en":
+            english_query = translate_service.translate_to_english(query, lang)
+    except Exception:
+        lang = "en"
+        english_query = query
+
+    prompt = f"""You are NexusAgri, an expert AI farming market advisor for Indian farmers.
+
+A farmer just received a market recommendation from our system. Now they have a follow-up question.
+
+=== PREVIOUS MARKET RECOMMENDATION ===
+{previous_response}
+=== END PREVIOUS RECOMMENDATION ===
+
+Farmer's follow-up question: "{english_query}"
+
+Provide a helpful, specific answer based on the recommendation context above. Cover practical details like:
+- Logistics and transport options if asked
+- Storage advice if relevant
+- Timing specifics
+- Cost considerations
+- Alternative strategies
+
+Keep your answer concise, practical, and farmer-friendly. If the question is unrelated to the previous recommendation, still try to help based on your agricultural expertise.
+
+Respond directly with your answer, no JSON formatting needed."""
+
+    try:
+        answer = bedrock_service.invoke_model(prompt).strip()
+    except Exception as e:
+        answer = f"I'm sorry, I couldn't process your follow-up question. Please try again. Error: {str(e)}"
+
+    # Translate back if needed
+    if lang != "en":
+        try:
+            answer = translate_service.translate_from_english(answer, lang)
+        except Exception:
+            pass
+
+    return {
+        "final_response": answer,
+        "agent_type": "market",
+        "is_continuation": True,
+        "original_language": lang,
+    }
+

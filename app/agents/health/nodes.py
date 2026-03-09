@@ -249,6 +249,9 @@ def check_confidence(state: HealthState) -> dict:
 
     disease_names = [d["disease"] for d in diseases[:3]]
 
+    lang = state.get("original_language", "en")
+    lang_instruction = f"IMPORTANT: Respond in the same language as this query. The farmer's language code is '{lang}'. If it is 'hi', respond in Hindi. If 'te', respond in Telugu. If 'ta', respond in Tamil. If 'kn', respond in Kannada. Match the farmer's language exactly." if lang != "en" else ""
+
     prompt = f"""You are diagnosing a {state.get('domain', 'plant')} health issue.
 
 Entity: {entity}
@@ -258,12 +261,21 @@ Possible diagnoses: {', '.join(disease_names)}
 The confidence is low ({confidence:.0%}). Generate ONE specific follow-up question
 to help narrow down the diagnosis. Make it simple and farmer-friendly.
 
+{lang_instruction}
+
 Respond with ONLY the question, nothing else."""
 
     try:
         question = bedrock_service.invoke_model(prompt).strip()
     except Exception:
         question = "Can you provide more details about the symptoms?"
+
+    # Fallback: if the LLM still replied in English, translate explicitly
+    if lang != "en":
+        try:
+            question = translate_service.translate_from_english(question, lang)
+        except Exception:
+            pass
 
     return {"needs_follow_up": True, "follow_up_question": question}
 

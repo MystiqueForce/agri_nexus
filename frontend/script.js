@@ -9,12 +9,18 @@ let currentMode = "auto"; // "auto", "health", "market"
 let uploadedFile = null;
 let uploadedFileType = null; // "image" or "video"
 let isProcessing = false;
+let selectedVoiceLanguage = "en-US"; // Default to English
 
 // ── Follow-up & Context Tracking ────────────────────────────
 // Tracks whether the last response was a follow-up question so the
 // next user message is sent as a follow_up_answer, not a new query.
 let pendingFollowUp = null;   // { originalQuery, agentType }
 let pendingLocation = null;   // { originalQuery, agentType }
+
+// ── Market Session Context ──────────────────────────────────
+// Stores the last market response so follow-up questions can be
+// answered contextually without re-running the full ML pipeline.
+let marketSession = null;     // { response, language, query }
 
 // ── DOM References ───────────────────────────────────────────
 const messagesContainer = document.getElementById("messages-container");
@@ -88,6 +94,202 @@ function clearFile() {
     document.getElementById("video-input").value = "";
 }
 
+// ── Voice Input (Web Speech API) ────────────────────────────
+let recognition = null;
+let isRecording = false;
+let cumulativeText = "";
+
+function toggleVoiceInput() {
+    // If already recording, user clicked to stop
+    if (isRecording) {
+        isRecording = false;
+        if (recognition) {
+            try { recognition.stop(); } catch (e) { }
+        }
+
+        // Reset UI
+        const micBtn = document.getElementById("mic-btn");
+        micBtn.classList.remove("recording");
+        micBtn.title = "Voice input";
+        statusBadge.textContent = "Ready";
+        statusBadge.classList.remove("processing");
+
+        // Final text cleanup
+        queryInput.value = queryInput.value.trim();
+        queryInput.focus();
+        return;
+    }
+
+    // Otherwise, start recording
+    const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+    if (!SpeechRecognition) {
+        alert("Speech recognition is not supported in your browser.\n\nPlease use:\n• Chrome\n• Edge\n• Safari (iOS/macOS)\n\nNote: Firefox does not support Web Speech API.");
+        return;
+    }
+
+    // Check if we're on HTTPS or localhost
+    const isSecure = window.location.protocol === 'https:' || 
+                     window.location.hostname === 'localhost' || 
+                     window.location.hostname === '127.0.0.1';
+    
+    if (!isSecure) {
+        alert("⚠️ Microphone access requires HTTPS or localhost.\n\nCurrent URL: " + window.location.protocol + "//" + window.location.host + "\n\nPlease access the app via:\n• https://... (secure connection)\n• http://localhost:...\n• http://127.0.0.1:...");
+        return;
+    }
+
+    isRecording = true;
+
+    // Pick up whatever text is already in the box
+    const currentText = queryInput.value.trim();
+    cumulativeText = currentText ? currentText + " " : "";
+
+    // Set UI to recording
+    const micBtn = document.getElementById("mic-btn");
+    micBtn.classList.add("recording");
+    micBtn.title = "Stop recording";
+    statusBadge.textContent = "🎤 Listening... (tap mic to stop)";
+    statusBadge.classList.add("processing");
+
+    // Start the continuous loop
+    startRecognitionLoop(SpeechRecognition);
+}
+
+function startRecognitionLoop(SpeechRecognition) {
+    if (!isRecording) return; // User stopped it manually
+
+    recognition = new SpeechRecognition();
+    recognition.continuous = true;
+    recognition.interimResults = true;
+    
+    // Use the selected language from the dropdown
+    recognition.lang = selectedVoiceLanguage;
+    
+    console.log("🎤 Starting recognition with language:", recognition.lang);
+
+    recognition.onstart = () => {
+        console.log("✅ Recognition started successfully");
+    };
+
+    recognition.onresult = (event) => {
+        console.log("🎤 Got speech result:", event.results.length, "results");
+        
+        let interimText = "";
+        for (let i = event.resultIndex; i < event.results.length; i++) {
+            const res = event.results[i];
+            const transcript = res[0].transcript;
+            console.log(`  Result ${i}: "${transcript}" (final: ${res.isFinal})`);
+            
+            if (res.isFinal) {
+                cumulativeText += transcript + " ";
+            } else {
+                interimText += transcript;
+            }
+        }
+        
+        // Update input box immediately with both final + current interim
+        const fullText = (cumulativeText + interimText).trim();
+        console.log("📝 Updating input box with:", fullText);
+        queryInput.value = fullText;
+        autoResize(queryInput);
+    };
+
+    recognition.onerror = (event) => {
+        console.error("❌ Speech error:", event.error, event);
+        
+        if (event.error === "not-allowed" || event.error === "not-supported") {
+            alert("Microphone access denied or not supported. Please:\n1. Allow microphone permissions in your browser\n2. Use HTTPS or localhost\n3. Use Chrome, Edge, or Safari");
+            isRecording = false;
+            const micBtn = document.getElementById("mic-btn");
+            micBtn.classList.remove("recording");
+            statusBadge.textContent = "Ready";
+            statusBadge.classList.remove("processing");
+        } else if (event.error === "no-speech") {
+            // Silence detected, just continue listening
+            console.log("⚠️ No speech detected, continuing...");
+        } else if (event.error === "aborted") {
+            // User stopped or browser killed it
+            console.log("⏹️ Recognition aborted");
+            isRecording = false;
+        } else if (event.error === "network") {
+            console.error("❌ Network error - speech recognition requires internet connection");
+            alert("Speech recognition requires an internet connection. Please check your connection and try again.");
+            isRecording = false;
+            const micBtn = document.getElementById("mic-btn");
+            micBtn.classList.remove("recording");
+            statusBadge.textContent = "Ready";
+            statusBadge.classList.remove("processing");
+        } else {
+            console.error("❌ Unknown error:", event.error);
+        }
+    };
+
+    recognition.onend = () => {
+        console.log("🔄 Recognition ended, isRecording:", isRecording);
+        // Did the user click stop? If so, isRecording=false and we don't restart.
+        // Did Chrome kill it due to HTTP security/silence? If so, isRecording=true and we restart silently!
+        if (isRecording) {
+            // Must use a timeout because starting synchronously inside onend triggers an InvalidStateError
+            setTimeout(() => {
+                if (isRecording) startRecognitionLoop(SpeechRecognition);
+            }, 250);
+        } else {
+            // Clean up UI if it somehow hasn't been cleaned up
+            const micBtn = document.getElementById("mic-btn");
+            if (micBtn.classList.contains("recording")) {
+                micBtn.classList.remove("recording");
+                statusBadge.textContent = "Ready";
+                statusBadge.classList.remove("processing");
+            }
+        }
+    };
+
+    try {
+        recognition.start();
+        console.log("🎤 Calling recognition.start()...");
+    } catch (e) {
+        console.error("❌ Failed to start speech recognition:", e);
+        alert("Failed to start recording: " + e.message);
+        isRecording = false;
+        const micBtn = document.getElementById("mic-btn");
+        micBtn.classList.remove("recording");
+        statusBadge.textContent = "Ready";
+        statusBadge.classList.remove("processing");
+    }
+}
+
+// Add audio level indicator (optional debugging)
+function checkMicrophoneInput() {
+    navigator.mediaDevices.getUserMedia({ audio: true })
+        .then(stream => {
+            console.log("✅ Microphone stream obtained");
+            const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+            const analyser = audioContext.createAnalyser();
+            const microphone = audioContext.createMediaStreamSource(stream);
+            microphone.connect(analyser);
+            analyser.fftSize = 256;
+            const dataArray = new Uint8Array(analyser.frequencyBinCount);
+            
+            function checkLevel() {
+                analyser.getByteFrequencyData(dataArray);
+                const average = dataArray.reduce((a, b) => a + b) / dataArray.length;
+                if (average > 10) {
+                    console.log("🔊 Audio detected, level:", Math.round(average));
+                }
+            }
+            
+            // Check for 5 seconds
+            const interval = setInterval(checkLevel, 500);
+            setTimeout(() => {
+                clearInterval(interval);
+                stream.getTracks().forEach(track => track.stop());
+                console.log("🔇 Microphone test complete");
+            }, 5000);
+        })
+        .catch(err => {
+            console.error("❌ Cannot access microphone:", err);
+        });
+}
+
 // ── Quick Query ─────────────────────────────────────────────
 function sendQuickQuery(text) {
     queryInput.value = text;
@@ -155,6 +357,10 @@ async function sendMessage() {
             // The user's input IS the location
             response = await callMarketEndpoint(orig.originalQuery, farmId, userInput);
 
+            // ── Handle market continuation (follow-up after recommendation) ──
+        } else if (marketSession && !uploadedFile) {
+            response = await callMarketFollowup(userInput, farmId);
+
             // ── Normal message flow ──
         } else if (currentMode === "health" || (currentMode === "auto" && uploadedFile)) {
             response = await callHealthEndpoint(userInput, farmId);
@@ -182,6 +388,21 @@ async function sendMessage() {
             // Successful response — clear any pending state
             pendingFollowUp = null;
             pendingLocation = null;
+        }
+
+        // ── Track market session for continuations ──
+        const isMarketResp = response.agent_type === "market"
+            || response.price_predictions
+            || response.recommendation;
+        if (isMarketResp && response.response && !response.needs_location && !response.is_continuation) {
+            marketSession = {
+                response: response.response,
+                language: response.original_language || "en",
+                query: userInput,
+            };
+        } else if (response.agent_type === "health") {
+            // Clear market session when switching to health agent
+            marketSession = null;
         }
 
         // Add response
@@ -244,6 +465,23 @@ async function callMarketEndpoint(query, farmId, location) {
     };
 
     const res = await fetch(`${API_BASE}/market/recommend`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(body),
+    });
+    if (!res.ok) throw new Error(`API error: ${res.status}`);
+    return await res.json();
+}
+
+async function callMarketFollowup(query, farmId) {
+    const body = {
+        query: query,
+        previous_response: marketSession.response,
+        farm_id: farmId,
+        original_language: marketSession.language || "en",
+    };
+
+    const res = await fetch(`${API_BASE}/market/followup`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(body),
@@ -388,6 +626,46 @@ async function saveProfile() {
     }
 }
 
+// ── Voice Language Selection ────────────────────────────────
+function updateVoiceLanguage() {
+    const select = document.getElementById("voice-language");
+    selectedVoiceLanguage = select.value;
+    
+    // Save to localStorage
+    localStorage.setItem("voiceLanguage", selectedVoiceLanguage);
+    
+    console.log("🌐 Voice language changed to:", selectedVoiceLanguage);
+    
+    // Show confirmation
+    const languageNames = {
+        "en-US": "English",
+        "hi-IN": "Hindi",
+        "ta-IN": "Tamil",
+        "te-IN": "Telugu",
+        "kn-IN": "Kannada",
+        "mr-IN": "Marathi",
+        "bn-IN": "Bengali",
+        "gu-IN": "Gujarati",
+        "ml-IN": "Malayalam",
+        "pa-IN": "Punjabi",
+        "ur-IN": "Urdu"
+    };
+    
+    statusBadge.textContent = `Language: ${languageNames[selectedVoiceLanguage]}`;
+    setTimeout(() => {
+        statusBadge.textContent = "Ready";
+    }, 2000);
+}
+
+function loadVoiceLanguage() {
+    const saved = localStorage.getItem("voiceLanguage");
+    if (saved) {
+        selectedVoiceLanguage = saved;
+        document.getElementById("voice-language").value = saved;
+        console.log("🌐 Loaded saved voice language:", saved);
+    }
+}
+
 // ── Helpers ─────────────────────────────────────────────────
 function escapeHtml(text) {
     const div = document.createElement("div");
@@ -401,3 +679,29 @@ function scrollToBottom() {
 
 // ── Initialize ──────────────────────────────────────────────
 queryInput.focus();
+
+// Load saved voice language
+loadVoiceLanguage();
+
+// Check speech recognition support on load
+(function checkSpeechSupport() {
+    const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+    const isSecure = window.location.protocol === 'https:' || 
+                     window.location.hostname === 'localhost' || 
+                     window.location.hostname === '127.0.0.1';
+    
+    console.log("🎤 Speech Recognition Status:");
+    console.log("  - API Available:", !!SpeechRecognition);
+    console.log("  - Secure Context:", isSecure);
+    console.log("  - Protocol:", window.location.protocol);
+    console.log("  - Hostname:", window.location.hostname);
+    console.log("  - Selected Language:", selectedVoiceLanguage);
+    
+    if (!SpeechRecognition) {
+        console.warn("⚠️ Web Speech API not supported in this browser");
+    } else if (!isSecure) {
+        console.warn("⚠️ Microphone requires HTTPS or localhost");
+    } else {
+        console.log("✅ Voice input ready!");
+    }
+})();

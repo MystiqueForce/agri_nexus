@@ -58,3 +58,26 @@ async def recommend(request: MarketRequest):
         "follow_up_question": result.get("follow_up_question"),
         "original_language": result.get("original_language", "en"),
     }
+
+
+@router.post("/followup")
+async def market_followup(request: dict):
+    """
+    Handle continuation questions after a market recommendation.
+    Expects: { query, previous_response, farm_id?, original_language? }
+    """
+    from app.agents.market.market_agent import run_market_followup
+
+    result = await run_market_followup(
+        query=request.get("query", ""),
+        previous_response=request.get("previous_response", ""),
+        farm_id=request.get("farm_id", "anonymous"),
+        original_language=request.get("original_language", "en"),
+    )
+
+    return {
+        "agent_type": "market",
+        "response": result.get("final_response", ""),
+        "is_continuation": True,
+    }
+
